@@ -1,0 +1,1698 @@
+{
+  "CategoriesCollection": [
+    {
+      "Id": "49db04e9-e4e3-41b8-9f66-8443472c73dc",
+      "ImageUrl": "https://media-asia-cdn.oriflame.com/-/media/Images/Categories/Top-Images/2018/Skincare_Top.ashx?u=0101010000",
+      "Name": "Skin Care",
+      "OriginalName": "skincare",
+      "SubCategories": [
+        {
+          "Id": "1d96f95a-5a09-4b4b-8ea9-f2920f738396",
+          "ImageUrl": "",
+          "Name": "Cleanse",
+          "OriginalName": "cleanse",
+          "SubCategories": [
+            {
+              "Id": "f8553b72-d5a2-406e-9913-3cf5f540009d",
+              "ImageUrl": "",
+              "Name": "Cleanser",
+              "OriginalName": "cleanser",
+              "SubCategories": []
+            },
+            {
+              "Id": "4eba1a32-8474-4383-b8a2-df5d1ba99e52",
+              "ImageUrl": "",
+              "Name": "Toners",
+              "OriginalName": "toners",
+              "SubCategories": []
+            },
+            {
+              "Id": "3f07cc6c-9ecb-4a70-ad47-706db840b5e2",
+              "ImageUrl": "",
+              "Name": "Scrubs",
+              "OriginalName": "scrubs",
+              "SubCategories": []
+            },
+            {
+              "Id": "aff370ca-a8bf-4cb5-a18b-3f018a5409fb",
+              "ImageUrl": "",
+              "Name": "Cleansing Tools",
+              "OriginalName": "cleansing-tools",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "b509aaa5-cacb-4939-8a4e-c4c40a074670",
+          "ImageUrl": "",
+          "Name": "Eyes",
+          "OriginalName": "eyes",
+          "SubCategories": [
+            {
+              "Id": "34622f8f-3328-4d38-bba7-845c3afc093d",
+              "ImageUrl": "",
+              "Name": "Eye creams",
+              "OriginalName": "eye-creams",
+              "SubCategories": []
+            },
+            {
+              "Id": "fc9c16de-8eb4-40e3-835b-754589218d56",
+              "ImageUrl": "",
+              "Name": "Eye Treatments",
+              "OriginalName": "eye-treatments",
+              "SubCategories": []
+            },
+            {
+              "Id": "eace764b-0ea2-46d7-8c0a-421454cec150",
+              "ImageUrl": "",
+              "Name": "Eye Make-Up Remover",
+              "OriginalName": "eye-makeup-remover",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "2b5faf0e-8153-4edd-a9f1-c90fb50e4072",
+          "ImageUrl": "",
+          "Name": "Boost",
+          "OriginalName": "boost",
+          "SubCategories": [
+            {
+              "Id": "8b73ef51-a21d-4b5b-9827-8c2164c15398",
+              "ImageUrl": "",
+              "Name": "Serums",
+              "OriginalName": "serums",
+              "SubCategories": []
+            },
+            {
+              "Id": "55424318-1204-4272-82ab-e558a94cd7d1",
+              "ImageUrl": "",
+              "Name": "Capsules",
+              "OriginalName": "capsules",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "059927cc-edfb-4f05-ad25-2c87702ce2d6",
+          "ImageUrl": "",
+          "Name": "Moisturise",
+          "OriginalName": "moisturise",
+          "SubCategories": [
+            {
+              "Id": "f9303d53-58ac-4718-966f-6ffbe1318231",
+              "ImageUrl": "",
+              "Name": "Day Cream",
+              "OriginalName": "day-cream",
+              "SubCategories": []
+            },
+            {
+              "Id": "3503152b-0473-4ce6-8daf-18db78da8156",
+              "ImageUrl": "",
+              "Name": "Night Cream",
+              "OriginalName": "night-cream",
+              "SubCategories": []
+            },
+            {
+              "Id": "bd4a47b2-1de6-466c-b69d-9a85a7171308",
+              "ImageUrl": "",
+              "Name": "BB & CC Cream",
+              "OriginalName": "bb-cc-cream",
+              "SubCategories": []
+            },
+            {
+              "Id": "4b4be336-1dc6-408d-b7bf-c28954899d54",
+              "ImageUrl": "",
+              "Name": "Lip Care",
+              "OriginalName": "lip-care",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "46be1708-4470-434e-baab-028877c3955f",
+          "ImageUrl": "",
+          "Name": "Treat",
+          "OriginalName": "treat",
+          "SubCategories": [
+            {
+              "Id": "76be5ea7-f27a-4890-ab49-f4445bdf1dc5",
+              "ImageUrl": "",
+              "Name": "Face Treatments",
+              "OriginalName": "face-treatments",
+              "SubCategories": []
+            },
+            {
+              "Id": "5758b866-4dc7-44ed-8605-0a80424396f6",
+              "ImageUrl": "",
+              "Name": "Masks",
+              "OriginalName": "masks",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "dd490f82-6f76-4586-a61e-430f38bf221b",
+          "ImageUrl": "",
+          "Name": "Sun",
+          "OriginalName": "sun",
+          "SubCategories": [
+            {
+              "Id": "65b51a7c-5124-4d09-95b8-bad8aa7304b0",
+              "ImageUrl": "",
+              "Name": "Sun Protectors",
+              "OriginalName": "sun-protectors",
+              "SubCategories": []
+            },
+            {
+              "Id": "6160bed7-9291-47b9-97e0-f4332ece90a4",
+              "ImageUrl": "",
+              "Name": "After Sun",
+              "OriginalName": "after-sun",
+              "SubCategories": []
+            },
+            {
+              "Id": "9172768f-a162-4dd1-bcc0-16558b6e91e3",
+              "ImageUrl": "",
+              "Name": "Self-Tanning",
+              "OriginalName": "self-tanning",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "96aedc55-8641-496a-ba04-24b08461dfa7",
+          "ImageUrl": "",
+          "Name": "Skin Care Tools",
+          "OriginalName": "skin-care-tools",
+          "SubCategories": [
+            {
+              "Id": "ae73164e-015f-4449-af72-6e7ebb7b898c",
+              "ImageUrl": "",
+              "Name": "Cleansing Systems",
+              "OriginalName": "cleansing-systems",
+              "SubCategories": []
+            },
+            {
+              "Id": "af69f365-237a-4838-bf3c-70b1b9232e72",
+              "ImageUrl": "",
+              "Name": "Facial Groomers",
+              "OriginalName": "facial-groomers",
+              "SubCategories": []
+            },
+            {
+              "Id": "e7f36593-aff6-4b10-9cd8-cf712b5af8e3",
+              "ImageUrl": "",
+              "Name": "Skin Care Tools",
+              "OriginalName": "skin-care-tools",
+              "SubCategories": []
+            },
+            {
+              "Id": "5305e771-3ba2-40a3-88a3-cd2f22bf56b9",
+              "ImageUrl": "",
+              "Name": "Sponges & Applicators",
+              "OriginalName": "sponges-applicators",
+              "SubCategories": []
+            },
+            {
+              "Id": "d04658ed-06c7-47ed-906b-c5c7c7867e69",
+              "ImageUrl": "",
+              "Name": "Facial Brushes",
+              "OriginalName": "facial-brushes",
+              "SubCategories": []
+            },
+            {
+              "Id": "fbbb2117-26cf-4b1b-855f-f82e96138b07",
+              "ImageUrl": "",
+              "Name": "Headbands",
+              "OriginalName": "headbands",
+              "SubCategories": []
+            },
+            {
+              "Id": "8bc98ba3-6415-4836-b024-55a686b7a5f1",
+              "ImageUrl": "",
+              "Name": "Mirrors",
+              "OriginalName": "mirrors",
+              "SubCategories": []
+            },
+            {
+              "Id": "64ca1c0b-d983-4fca-820f-59f44060838d",
+              "ImageUrl": "",
+              "Name": "Brow Tools & Tweezers",
+              "OriginalName": "brow-tools-tweezers",
+              "SubCategories": []
+            },
+            {
+              "Id": "b9e07a42-3fdc-4980-9dda-3803eef28c38",
+              "ImageUrl": "",
+              "Name": "Other Skin Care Tools",
+              "OriginalName": "other",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "690a4802-c076-4386-9e88-edc1402d5632",
+          "ImageUrl": "",
+          "Name": "Men's Skin Care",
+          "OriginalName": "men",
+          "SubCategories": [
+            {
+              "Id": "f0009ca0-0ec6-416b-9c5d-8d5a83313258",
+              "ImageUrl": "",
+              "Name": "Shaving & Grooming",
+              "OriginalName": "shaving-grooming",
+              "SubCategories": []
+            },
+            {
+              "Id": "c833acd7-05f0-493e-8c29-08c25073ae3a",
+              "ImageUrl": "",
+              "Name": "Men's Moisturisers & Treatments",
+              "OriginalName": "moisturisers-treatments",
+              "SubCategories": []
+            },
+            {
+              "Id": "ba2dbc05-b6e3-463c-ba76-d85bf3b7b2d8",
+              "ImageUrl": "",
+              "Name": "Men's Cleanser",
+              "OriginalName": "mens-cleanser",
+              "SubCategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "64430708-2883-420b-9962-d206396318e8",
+      "ImageUrl": "https://media-asia-cdn.oriflame.com/-/media/Images/Categories/Top-Images/2018/Makeup_Top.ashx?u=0101010000",
+      "Name": "Make-Up",
+      "OriginalName": "makeup",
+      "SubCategories": [
+        {
+          "Id": "b00b5bda-0071-42d5-be51-4e4ceab8f0e6",
+          "ImageUrl": "",
+          "Name": "Face Make-Up",
+          "OriginalName": "face-makeup",
+          "SubCategories": [
+            {
+              "Id": "3b069482-c110-4063-9441-41a71d9933d6",
+              "ImageUrl": "",
+              "Name": "Foundation",
+              "OriginalName": "foundation",
+              "SubCategories": []
+            },
+            {
+              "Id": "227ac856-f4dd-4631-948d-a3b7ca4c25f6",
+              "ImageUrl": "",
+              "Name": "Highlighter",
+              "OriginalName": "highlighter",
+              "SubCategories": []
+            },
+            {
+              "Id": "2433e09a-abff-485f-a2e5-a53690bd101a",
+              "ImageUrl": "",
+              "Name": "Powder",
+              "OriginalName": "powder",
+              "SubCategories": []
+            },
+            {
+              "Id": "6dc5998d-a757-4b01-b40d-6482f102f0cb",
+              "ImageUrl": "",
+              "Name": "Primer",
+              "OriginalName": "primer",
+              "SubCategories": []
+            },
+            {
+              "Id": "15d69695-032b-4ea1-ab17-6ec1516af267",
+              "ImageUrl": "",
+              "Name": "Concealer",
+              "OriginalName": "concealer",
+              "SubCategories": []
+            },
+            {
+              "Id": "6cf26ca4-0a41-4018-848d-13c6fe82ea6d",
+              "ImageUrl": "",
+              "Name": "Blush",
+              "OriginalName": "blush",
+              "SubCategories": []
+            },
+            {
+              "Id": "ba8441e4-d886-4741-9cea-60aed64cc1fd",
+              "ImageUrl": "",
+              "Name": "Bronzer",
+              "OriginalName": "bronzer",
+              "SubCategories": []
+            },
+            {
+              "Id": "5ef1590b-ca1f-435c-b31c-b8491980df9d",
+              "ImageUrl": "",
+              "Name": "Face Make-Up Remover",
+              "OriginalName": "face-makeup-remover",
+              "SubCategories": []
+            },
+            {
+              "Id": "f846a774-5d1b-405c-91d9-82fe5b8c69d5",
+              "ImageUrl": "",
+              "Name": "BB & CC Cream",
+              "OriginalName": "bb-cc-cream",
+              "SubCategories": []
+            },
+            {
+              "Id": "40ede5d2-f89b-48f0-b084-293e204a89e5",
+              "ImageUrl": "",
+              "Name": "Face Tools & Brushes",
+              "OriginalName": "face-tools-brushes",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "c1d5216d-5f53-4d76-85c3-6be00ddba0e6",
+          "ImageUrl": "",
+          "Name": "Eye Make-Up",
+          "OriginalName": "eye-makeup",
+          "SubCategories": [
+            {
+              "Id": "cff8ff83-edd6-42c8-865f-04bce8dd421a",
+              "ImageUrl": "",
+              "Name": "Mascara",
+              "OriginalName": "mascara",
+              "SubCategories": []
+            },
+            {
+              "Id": "c9254801-4d4d-46ae-98ec-613ed0a018fb",
+              "ImageUrl": "",
+              "Name": "Eyeliner",
+              "OriginalName": "eyeliner",
+              "SubCategories": []
+            },
+            {
+              "Id": "7b110e42-c0b8-412c-b7ae-6aa62a560cdf",
+              "ImageUrl": "",
+              "Name": "Eye Shadow",
+              "OriginalName": "eye-shadow",
+              "SubCategories": []
+            },
+            {
+              "Id": "486ec563-a401-42b5-a0c8-9b0c3f2dc4cc",
+              "ImageUrl": "",
+              "Name": "Eye Make-Up Remover",
+              "OriginalName": "eye-make-up-remover",
+              "SubCategories": []
+            },
+            {
+              "Id": "600b16b4-2499-48a1-9a0e-7cd824fdc6db",
+              "ImageUrl": "",
+              "Name": "Eyebrows",
+              "OriginalName": "eyebrows",
+              "SubCategories": []
+            },
+            {
+              "Id": "496bfdc3-70f1-499e-bb9b-45148abebd48",
+              "ImageUrl": "",
+              "Name": "Eye Tools & Brushes",
+              "OriginalName": "eye-tools-brushes",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "7ad76bc1-a141-4aef-a3b7-355872977f2a",
+          "ImageUrl": "",
+          "Name": "Lips",
+          "OriginalName": "lips",
+          "SubCategories": [
+            {
+              "Id": "8d766fc3-e692-41ac-92f7-04ed5ab9b7b3",
+              "ImageUrl": "",
+              "Name": "Lipstick",
+              "OriginalName": "lipstick",
+              "SubCategories": []
+            },
+            {
+              "Id": "4cb56790-a295-4373-b1fb-bce78e194a4a",
+              "ImageUrl": "",
+              "Name": "Lip Gloss",
+              "OriginalName": "lip-gloss",
+              "SubCategories": []
+            },
+            {
+              "Id": "06f6519d-b158-46c1-8936-380d24053444",
+              "ImageUrl": "",
+              "Name": "Lip Stain",
+              "OriginalName": "lip-stain",
+              "SubCategories": []
+            },
+            {
+              "Id": "cef92b3e-5313-4556-b65e-3cb25c10e185",
+              "ImageUrl": "",
+              "Name": "Lip Liner",
+              "OriginalName": "lip-liner",
+              "SubCategories": []
+            },
+            {
+              "Id": "8caa239c-8a66-438c-ad1c-a4122b045cce",
+              "ImageUrl": "",
+              "Name": "Lip Care",
+              "OriginalName": "lip-care",
+              "SubCategories": []
+            },
+            {
+              "Id": "26e24a22-125e-4f1a-8c1a-86680ade3383",
+              "ImageUrl": "",
+              "Name": "Lip Tools & Brushes",
+              "OriginalName": "lip-tools-brushes",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "26097ba2-3810-4c49-8720-b384d0ce6c06",
+          "ImageUrl": "",
+          "Name": "Nails",
+          "OriginalName": "nails",
+          "SubCategories": [
+            {
+              "Id": "826a3b23-d909-480d-94a1-fd9170c7ad63",
+              "ImageUrl": "",
+              "Name": "Nail Polish",
+              "OriginalName": "nail-polish",
+              "SubCategories": []
+            },
+            {
+              "Id": "cd2ad6e4-ffef-4fbe-b724-31e94919674f",
+              "ImageUrl": "",
+              "Name": "Nail Effects",
+              "OriginalName": "nail-effects",
+              "SubCategories": []
+            },
+            {
+              "Id": "46a063dc-8913-45c2-833f-cfeac555f7b4",
+              "ImageUrl": "",
+              "Name": "Nail Polish Remover",
+              "OriginalName": "nail-polish-remover",
+              "SubCategories": []
+            },
+            {
+              "Id": "ff7c7ccb-84e0-41f5-8977-0e4be927f19c",
+              "ImageUrl": "",
+              "Name": "Nail Care",
+              "OriginalName": "nail-care",
+              "SubCategories": []
+            },
+            {
+              "Id": "032e7130-6d3f-4770-bcd8-83adac01a509",
+              "ImageUrl": "",
+              "Name": "Manicure & Pedicure",
+              "OriginalName": "manicure-pedicure",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "bbd8a277-df9f-4946-8265-f4ea8eeaccef",
+          "ImageUrl": "",
+          "Name": "Makeup Tools",
+          "OriginalName": "makeup-tools",
+          "SubCategories": [
+            {
+              "Id": "de8db3cb-7755-4612-b579-6cb5d2033aa6",
+              "ImageUrl": "",
+              "Name": "Make–Up Brushes",
+              "OriginalName": "makeup-brushes-applicators",
+              "SubCategories": []
+            },
+            {
+              "Id": "ed94d3fc-fa2e-4b94-b342-3b73b42c06b6",
+              "ImageUrl": "",
+              "Name": "Sponges & Applicators",
+              "OriginalName": "sponges-applicators",
+              "SubCategories": []
+            },
+            {
+              "Id": "8c210989-0865-48ea-b309-6d6011371954",
+              "ImageUrl": "",
+              "Name": "Manicure & Pedicure",
+              "OriginalName": "manicure-pedicure",
+              "SubCategories": []
+            },
+            {
+              "Id": "03d581c6-4e59-49c7-99f1-72e2a8d9d446",
+              "ImageUrl": "",
+              "Name": "Eyelash Curlers",
+              "OriginalName": "eyelash-curlers",
+              "SubCategories": []
+            },
+            {
+              "Id": "a106359a-3020-4aef-99e8-24eb765c9f9b",
+              "ImageUrl": "",
+              "Name": "Mirrors",
+              "OriginalName": "mirrors",
+              "SubCategories": []
+            },
+            {
+              "Id": "6171e588-8dee-4a5f-9695-47d1184ec4f8",
+              "ImageUrl": "",
+              "Name": "Brow Tools & Tweezers",
+              "OriginalName": "brow-tools-tweezers",
+              "SubCategories": []
+            },
+            {
+              "Id": "aa379e48-b04d-4289-9fb8-c5eb4c9e3682",
+              "ImageUrl": "",
+              "Name": "Sharpeners",
+              "OriginalName": "sharpeners",
+              "SubCategories": []
+            },
+            {
+              "Id": "42c84f70-c7a6-4612-a95c-990a2671d202",
+              "ImageUrl": "",
+              "Name": "Make-Up Bags",
+              "OriginalName": "make-up-bags",
+              "SubCategories": []
+            },
+            {
+              "Id": "66050ca4-0c02-4d87-a3d3-9c05c1949aec",
+              "ImageUrl": "",
+              "Name": "Palettes & Value Sets",
+              "OriginalName": "palettes-value-sets",
+              "SubCategories": []
+            },
+            {
+              "Id": "1f78f706-3651-449b-9c7c-a1dcc25a46e3",
+              "ImageUrl": "",
+              "Name": "Other Beauty Tools",
+              "OriginalName": "other-makeup-tools",
+              "SubCategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "b4d2beb9-1a4a-4ad4-a6ee-2f29556d1a70",
+      "ImageUrl": "https://media-asia-cdn.oriflame.com/-/media/Images/Product-section/Categories/Category-landing-test-images/FRA_01.ashx?u=1405300604",
+      "Name": "Fragrance",
+      "OriginalName": "fragrance",
+      "SubCategories": [
+        {
+          "Id": "ad331224-8277-4eda-89d3-7b4b6e0feb63",
+          "ImageUrl": "",
+          "Name": "Women's Fragrance",
+          "OriginalName": "women",
+          "SubCategories": [
+            {
+              "Id": "7c4df219-d852-4c5c-a921-7077ef20314a",
+              "ImageUrl": "",
+              "Name": "Perfume",
+              "OriginalName": "perfume",
+              "SubCategories": []
+            },
+            {
+              "Id": "024a0304-0544-4a83-94b7-0be1cb68e034",
+              "ImageUrl": "",
+              "Name": "Body Moisturisers",
+              "OriginalName": "body-moisturisers",
+              "SubCategories": []
+            },
+            {
+              "Id": "50c46bbe-82dd-4b4b-8f53-aac4e0dd3807",
+              "ImageUrl": "",
+              "Name": "Deodorants & Anti-Perspirants",
+              "OriginalName": "deodorants-antiperspirants",
+              "SubCategories": []
+            },
+            {
+              "Id": "77ee790b-8586-4fe3-97fb-820aa4390726",
+              "ImageUrl": "",
+              "Name": "Bath & Shower",
+              "OriginalName": "bath-shower",
+              "SubCategories": []
+            },
+            {
+              "Id": "b87843d7-2de5-4b11-bef4-730555f2bd80",
+              "ImageUrl": "",
+              "Name": "Other Fragrances",
+              "OriginalName": "other",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "e253ceae-6079-404c-916d-d71383494e0a",
+          "ImageUrl": "",
+          "Name": "Men's Fragrance",
+          "OriginalName": "men",
+          "SubCategories": [
+            {
+              "Id": "a389992e-8d0e-4303-8b09-8a23abc72915",
+              "ImageUrl": "",
+              "Name": "Men's Perfume",
+              "OriginalName": "perfume",
+              "SubCategories": []
+            },
+            {
+              "Id": "d6b8cc8b-e444-4a55-9a64-fa32c0667d11",
+              "ImageUrl": "",
+              "Name": "Men's Deodorants & Anti-Perspirants",
+              "OriginalName": "deodorants-antiperspirants",
+              "SubCategories": []
+            },
+            {
+              "Id": "4b17f1c1-d06f-48c5-a32e-6c0226b434f0",
+              "ImageUrl": "",
+              "Name": "Men's Bath & Shower",
+              "OriginalName": "bath-shower",
+              "SubCategories": []
+            },
+            {
+              "Id": "4475cabf-029a-4e8b-bd55-9575dc8f3b02",
+              "ImageUrl": "",
+              "Name": "Shaving & Grooming",
+              "OriginalName": "shaving-grooming",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "bd6ef4f1-5d9b-4cd9-b672-bae5f4cc2253",
+          "ImageUrl": "",
+          "Name": "Kids' Fragrance",
+          "OriginalName": "kids",
+          "SubCategories": [
+            {
+              "Id": "b606492e-d9ae-4084-98ef-be416d5014b6",
+              "ImageUrl": "",
+              "Name": "Kids' Perfume",
+              "OriginalName": "perfume",
+              "SubCategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "17b38743-4a10-45d1-bb9e-def83c7cbc48",
+      "ImageUrl": "https://media-asia-cdn.oriflame.com/-/media/Images/Categories/Top-Images/2018/BathBody_Top.ashx?u=0101010000",
+      "Name": "Bath & Body",
+      "OriginalName": "bath-body",
+      "SubCategories": [
+        {
+          "Id": "b451b7a7-850b-46f1-9e2e-880d97cab832",
+          "ImageUrl": "",
+          "Name": "Body Care",
+          "OriginalName": "body-care",
+          "SubCategories": [
+            {
+              "Id": "73186d9f-30dc-46de-8ad6-cde761a90e25",
+              "ImageUrl": "",
+              "Name": "Body Moisturisers",
+              "OriginalName": "body-moisturisers",
+              "SubCategories": []
+            },
+            {
+              "Id": "939694e9-95a4-40ea-aeaa-29dafc2f09fe",
+              "ImageUrl": "",
+              "Name": "Hand Care",
+              "OriginalName": "hand-care",
+              "SubCategories": []
+            },
+            {
+              "Id": "0108cc39-3fb0-415d-a603-ef527542443f",
+              "ImageUrl": "",
+              "Name": "Foot Care",
+              "OriginalName": "foot-care",
+              "SubCategories": []
+            },
+            {
+              "Id": "f6d738e5-9190-4509-b644-486d4b47fadd",
+              "ImageUrl": "",
+              "Name": "Deodorants & Anti-Perspirants",
+              "OriginalName": "deodorants-antiperspirants",
+              "SubCategories": []
+            },
+            {
+              "Id": "f1ff6044-0876-43c0-aae2-7b94fec6131d",
+              "ImageUrl": "",
+              "Name": "talcs",
+              "OriginalName": "talcs",
+              "SubCategories": []
+            },
+            {
+              "Id": "539ea34a-a81b-4d90-9c8a-9fe479ebedf9",
+              "ImageUrl": "",
+              "Name": "Anti-Cellulite & Toning",
+              "OriginalName": "anticellulite-toning",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "f25b03d3-be6a-4eee-8aba-5fd3b1924419",
+          "ImageUrl": "",
+          "Name": "Bath & Shower",
+          "OriginalName": "bath-shower",
+          "SubCategories": [
+            {
+              "Id": "a871d189-f9f0-4909-a3df-9559f841ed73",
+              "ImageUrl": "",
+              "Name": "Body Wash & Shower Gel",
+              "OriginalName": "body-wash-shower-gel",
+              "SubCategories": []
+            },
+            {
+              "Id": "61d92ed2-d7f7-424f-85f5-b96e6e2db9a3",
+              "ImageUrl": "",
+              "Name": "Body Scrubs & Exfoliants",
+              "OriginalName": "body-scrubs-exfoliants",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "3a047019-712f-4650-8ab6-1a6e7903c4d6",
+          "ImageUrl": "",
+          "Name": "Sun",
+          "OriginalName": "sun",
+          "SubCategories": [
+            {
+              "Id": "47681a9c-1d92-4dfe-8b53-0a4997b8b895",
+              "ImageUrl": "",
+              "Name": "Sun Protectors",
+              "OriginalName": "sun-protectors",
+              "SubCategories": []
+            },
+            {
+              "Id": "e9665fd7-fc65-4d7e-be48-2fd569256e6e",
+              "ImageUrl": "",
+              "Name": "After Sun",
+              "OriginalName": "after-sun",
+              "SubCategories": []
+            },
+            {
+              "Id": "ee8c5cce-5fa4-499c-a750-f3d93860411f",
+              "ImageUrl": "",
+              "Name": "Self-Tanning",
+              "OriginalName": "self-tanning",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "82d19951-a80d-4812-85f3-1b06a7779922",
+          "ImageUrl": "",
+          "Name": "Other Bath & Body Needs",
+          "OriginalName": "other-needs",
+          "SubCategories": [
+            {
+              "Id": "b629b4d6-9e60-4b54-8eda-f2da22c62eef",
+              "ImageUrl": "",
+              "Name": "Depilatories",
+              "OriginalName": "depilatories",
+              "SubCategories": []
+            },
+            {
+              "Id": "d74a16ce-f73a-4992-a488-3a3e0bfaf4e2",
+              "ImageUrl": "",
+              "Name": "Intimate Care",
+              "OriginalName": "intimate-care",
+              "SubCategories": []
+            },
+            {
+              "Id": "8b64f385-1bf1-4e03-9473-12ea3301dbc7",
+              "ImageUrl": "",
+              "Name": "Oral Care",
+              "OriginalName": "oral-care",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "880f7655-9b23-4830-bee6-364f92687bdd",
+          "ImageUrl": "",
+          "Name": "Bath & Body Tools",
+          "OriginalName": "bath-body-tools",
+          "SubCategories": [
+            {
+              "Id": "ce229ff5-391e-4505-a280-aa5eab84a22e",
+              "ImageUrl": "",
+              "Name": "Body Sponges",
+              "OriginalName": "body-sponges",
+              "SubCategories": []
+            },
+            {
+              "Id": "f7a97edb-772e-43e6-8077-b1189a86fc8e",
+              "ImageUrl": "",
+              "Name": "Body Sponges & Brushes",
+              "OriginalName": "body-sponges-brushes",
+              "SubCategories": []
+            },
+            {
+              "Id": "8bda5dda-236a-4f59-b305-ab0f21d583b6",
+              "ImageUrl": "",
+              "Name": "Body Massagers",
+              "OriginalName": "body-massagers",
+              "SubCategories": []
+            },
+            {
+              "Id": "979eb241-5999-4757-ae73-c90ab067e8f4",
+              "ImageUrl": "",
+              "Name": "Manicure & Pedicure",
+              "OriginalName": "manicure-pedicure",
+              "SubCategories": []
+            },
+            {
+              "Id": "41f81dde-cec8-4a78-8e52-a0352128ef6d",
+              "ImageUrl": "",
+              "Name": "Razors",
+              "OriginalName": "razors",
+              "SubCategories": []
+            },
+            {
+              "Id": "c5e67748-2d3f-4525-9974-0821d865250f",
+              "ImageUrl": "",
+              "Name": "Other Bath & Body Tools",
+              "OriginalName": "other",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "36956644-8780-4e17-86ab-b1ca78822735",
+          "ImageUrl": "",
+          "Name": "Men's Bath & Body",
+          "OriginalName": "men",
+          "SubCategories": [
+            {
+              "Id": "d237ed9c-a1ab-4d82-9ce7-c19ab6d3d4c7",
+              "ImageUrl": "",
+              "Name": "Men's Body Wash & Shower Gel",
+              "OriginalName": "body-wash-shower-gel",
+              "SubCategories": []
+            },
+            {
+              "Id": "e364a286-67a7-4fdf-a4f8-6b5d09d6fd9e",
+              "ImageUrl": "",
+              "Name": "Men's Deodorants & Anti-Perspirants",
+              "OriginalName": "deodorants-antiperspirants",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "2e7b9f2e-e5aa-4f31-9a91-610f0aedc41f",
+          "ImageUrl": "",
+          "Name": "Bath & Body for Kids and Babies",
+          "OriginalName": "kids-baby",
+          "SubCategories": [
+            {
+              "Id": "de485a8a-6c5e-46fb-88b2-d830b89eacab",
+              "ImageUrl": "",
+              "Name": "Hair & Body Wash for Kids and Babies",
+              "OriginalName": "hair-body-wash",
+              "SubCategories": []
+            },
+            {
+              "Id": "6ad931de-9cde-4a30-a5a7-31aabbc104ae",
+              "ImageUrl": "",
+              "Name": "Sun Care for Kids and Babies",
+              "OriginalName": "sun-care",
+              "SubCategories": []
+            },
+            {
+              "Id": "fa6c6316-b4f6-4168-a1e1-e9292596ae13",
+              "ImageUrl": "",
+              "Name": "Baby",
+              "OriginalName": "baby",
+              "SubCategories": []
+            },
+            {
+              "Id": "c1957a50-f353-4d63-b062-abb4e75f5468",
+              "ImageUrl": "",
+              "Name": "Oral Care for Kids and Babies",
+              "OriginalName": "oral-care",
+              "SubCategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "e508b1f3-ad91-442f-b328-59e73d20f797",
+      "ImageUrl": "https://media-asia-cdn.oriflame.com/-/media/Images/Categories/Top-Images/2018/Hair_Top.ashx?u=0101010000",
+      "Name": "Hair",
+      "OriginalName": "hair",
+      "SubCategories": [
+        {
+          "Id": "adb89ee2-3c49-4974-9639-2ea8cdba8839",
+          "ImageUrl": "",
+          "Name": "Women's Hair Care",
+          "OriginalName": "women",
+          "SubCategories": [
+            {
+              "Id": "9f3f9a49-5481-42a2-869e-ab87330d4152",
+              "ImageUrl": "",
+              "Name": "Shampoo",
+              "OriginalName": "shampoo",
+              "SubCategories": []
+            },
+            {
+              "Id": "f5f2f084-d22d-4eac-9554-54f3ad4a8951",
+              "ImageUrl": "",
+              "Name": "Conditioner",
+              "OriginalName": "conditioner",
+              "SubCategories": []
+            },
+            {
+              "Id": "51410f4c-d498-413c-a341-ccd5a834eb13",
+              "ImageUrl": "",
+              "Name": "Styling Products",
+              "OriginalName": "styling-products",
+              "SubCategories": []
+            },
+            {
+              "Id": "13ecd9d3-8b88-4da6-9108-59d4e5930acc",
+              "ImageUrl": "",
+              "Name": "Hair Treatments",
+              "OriginalName": "hair-treatments",
+              "SubCategories": []
+            },
+            {
+              "Id": "d3958da3-6bc9-4612-9bc6-2ec32ddf370a",
+              "ImageUrl": "",
+              "Name": "Hair Colour",
+              "OriginalName": "hair-colour",
+              "SubCategories": []
+            },
+            {
+              "Id": "8c95b1cc-2348-4448-b9dc-4cb8ca8229e7",
+              "ImageUrl": "",
+              "Name": "Hair Tools & Accessories",
+              "OriginalName": "hair-tools-accessories",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "b97e2027-6ca6-48e7-8722-d5b56abdf793",
+          "ImageUrl": "",
+          "Name": "Men's Hair Care",
+          "OriginalName": "men",
+          "SubCategories": [
+            {
+              "Id": "2afdc682-cd11-458d-b594-c9ed5e5498bd",
+              "ImageUrl": "",
+              "Name": "Men's Shampoo",
+              "OriginalName": "shampoo",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "9d7a901e-9a47-4a60-9132-85af80f0e0b6",
+          "ImageUrl": "",
+          "Name": "Kids' Hair Care",
+          "OriginalName": "kids",
+          "SubCategories": [
+            {
+              "Id": "34452d21-24ab-46a7-bd05-c17b92dacab1",
+              "ImageUrl": "",
+              "Name": "Kids' Shampoo",
+              "OriginalName": "shampoo",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "2d2b58ee-736c-4ff2-9a5b-51c28d988e07",
+          "ImageUrl": "",
+          "Name": "Hair Tools & Accessories",
+          "OriginalName": "hair-tools-accessories",
+          "SubCategories": [
+            {
+              "Id": "2129188e-6549-45c3-a927-b013d1378cd6",
+              "ImageUrl": "",
+              "Name": "Hair Accessories",
+              "OriginalName": "hair-accessories",
+              "SubCategories": []
+            },
+            {
+              "Id": "9a439f08-6c45-43aa-828b-1b3bbdc94cab",
+              "ImageUrl": "",
+              "Name": "Hair Brushes & Combs",
+              "OriginalName": "hair-brushes-combs",
+              "SubCategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "a9d56d50-5290-4073-b7b3-8a0383798f99",
+      "ImageUrl": "https://media-asia-cdn.oriflame.com/-/media/Images/Product-section/Categories/Category-landing-test-images/ACC_01.ashx?u=1405281452",
+      "Name": "Accessories",
+      "OriginalName": "accessories",
+      "SubCategories": [
+        {
+          "Id": "19c6edcb-8c8d-4b9e-8a5b-a1933bf26c6f",
+          "ImageUrl": "",
+          "Name": "Beauty Tools & Brushes",
+          "OriginalName": "beauty-tools-brushes",
+          "SubCategories": [
+            {
+              "Id": "02be0aa4-6f94-408e-ae24-fb9b173b2987",
+              "ImageUrl": "",
+              "Name": "Make-Up Brushes",
+              "OriginalName": "makeup-brushes",
+              "SubCategories": []
+            },
+            {
+              "Id": "a39e1c37-81eb-4166-9760-933e8865aec2",
+              "ImageUrl": "",
+              "Name": "Make-Up Sponges & Applicators",
+              "OriginalName": "sponges-applicators",
+              "SubCategories": []
+            },
+            {
+              "Id": "23fb9a41-755f-4a1c-97be-acf186bceab2",
+              "ImageUrl": "",
+              "Name": "Manicure & Pedicure",
+              "OriginalName": "manicure-pedicure",
+              "SubCategories": []
+            },
+            {
+              "Id": "c14b0c21-5f83-4599-b9ca-619b31772f7b",
+              "ImageUrl": "",
+              "Name": "Eyelash Curlers",
+              "OriginalName": "eyelash-curlers",
+              "SubCategories": []
+            },
+            {
+              "Id": "1b9de537-a612-437c-bdb9-fecf255fdc63",
+              "ImageUrl": "",
+              "Name": "Mirrors",
+              "OriginalName": "mirrors",
+              "SubCategories": []
+            },
+            {
+              "Id": "1f67b8c6-fd28-48e6-916d-60233e72f974",
+              "ImageUrl": "",
+              "Name": "Brow Tools & Tweezers",
+              "OriginalName": "brow-tools-tweezers",
+              "SubCategories": []
+            },
+            {
+              "Id": "4911aa1e-c070-42a1-a7ba-9743b83c742a",
+              "ImageUrl": "",
+              "Name": "Sharpeners",
+              "OriginalName": "sharpeners",
+              "SubCategories": []
+            },
+            {
+              "Id": "bf19c0cf-25bb-492d-a6c8-63840de79e77",
+              "ImageUrl": "",
+              "Name": "Make-Up Bags",
+              "OriginalName": "makeup-bags",
+              "SubCategories": []
+            },
+            {
+              "Id": "1f0d1c00-608b-4e25-96e3-a0b7c6b39f98",
+              "ImageUrl": "",
+              "Name": "Palettes & Value Sets",
+              "OriginalName": "palettes-value-sets",
+              "SubCategories": []
+            },
+            {
+              "Id": "4f0dd0f9-f212-4d0e-96f2-2d1ab0e67ed6",
+              "ImageUrl": "",
+              "Name": "Other Beauty Tools",
+              "OriginalName": "other",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "5d4f1643-308d-41d3-8566-b2dd0737361e",
+          "ImageUrl": "",
+          "Name": "Skin Care Tools",
+          "OriginalName": "skin-care-tools",
+          "SubCategories": [
+            {
+              "Id": "8956ed9a-420b-465c-9b1a-47a0a181d95e",
+              "ImageUrl": "",
+              "Name": "Cleansing Systems",
+              "OriginalName": "cleansing-systems",
+              "SubCategories": []
+            },
+            {
+              "Id": "6933878c-64de-491d-bbc7-77db2e6d0b7b",
+              "ImageUrl": "",
+              "Name": "Facial Groomers",
+              "OriginalName": "facial-groomers",
+              "SubCategories": []
+            },
+            {
+              "Id": "e79779c9-bfbb-445d-8b4c-6210514f441a",
+              "ImageUrl": "",
+              "Name": "Skin Care Sponges & Applicators",
+              "OriginalName": "sponges-applicators",
+              "SubCategories": []
+            },
+            {
+              "Id": "30e69a9f-2086-4e5d-a676-72b803cdabfe",
+              "ImageUrl": "",
+              "Name": "Facial Brushes",
+              "OriginalName": "facial-brushes",
+              "SubCategories": []
+            },
+            {
+              "Id": "2a8baa85-85ab-4a04-bc07-486cf11dd9c6",
+              "ImageUrl": "",
+              "Name": "Headbands",
+              "OriginalName": "headbands",
+              "SubCategories": []
+            },
+            {
+              "Id": "29a3825f-3421-40cd-a772-3c71dd1c2465",
+              "ImageUrl": "",
+              "Name": "Mirrors",
+              "OriginalName": "mirrors",
+              "SubCategories": []
+            },
+            {
+              "Id": "14d2fec4-b792-4a2d-b263-62a05a019c39",
+              "ImageUrl": "",
+              "Name": "Brow Tools & Tweezers",
+              "OriginalName": "brow-tools-tweezers",
+              "SubCategories": []
+            },
+            {
+              "Id": "9751cd09-a1f9-4b67-aa79-e70f8c404a3e",
+              "ImageUrl": "",
+              "Name": "Other Skin Care Tools",
+              "OriginalName": "other",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "99338bc6-6913-4169-a7a1-337846339123",
+          "ImageUrl": "",
+          "Name": "Bath & Body Tools",
+          "OriginalName": "bath-body-tools",
+          "SubCategories": [
+            {
+              "Id": "4ca43977-c80d-4751-870e-9e0330e2eda2",
+              "ImageUrl": "",
+              "Name": "Body Sponges",
+              "OriginalName": "body-sponges",
+              "SubCategories": []
+            },
+            {
+              "Id": "5d734650-2b8c-4634-8694-75c69685b93f",
+              "ImageUrl": "",
+              "Name": "Body Brushes",
+              "OriginalName": "body-brushes",
+              "SubCategories": []
+            },
+            {
+              "Id": "663449c6-bc41-4196-ac2e-2934960a78e5",
+              "ImageUrl": "",
+              "Name": "Body Massagers",
+              "OriginalName": "body-massagers",
+              "SubCategories": []
+            },
+            {
+              "Id": "62078321-1517-4208-a6fb-732a9a55ea5b",
+              "ImageUrl": "",
+              "Name": "Toothbrushes",
+              "OriginalName": "toothbrushes",
+              "SubCategories": []
+            },
+            {
+              "Id": "6b241771-8a6c-4e99-91e0-8abe9e8dc8c3",
+              "ImageUrl": "",
+              "Name": "Manicure & Pedicure",
+              "OriginalName": "manicure-pedicure",
+              "SubCategories": []
+            },
+            {
+              "Id": "d56d7140-0e88-4183-be49-0d618e6b4b59",
+              "ImageUrl": "",
+              "Name": "Razors",
+              "OriginalName": "razors",
+              "SubCategories": []
+            },
+            {
+              "Id": "6bffc841-76c9-460d-a0fc-a88ea3187d19",
+              "ImageUrl": "",
+              "Name": "Other Bath & Body Tools",
+              "OriginalName": "other",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "3acbda41-2fd8-4037-9c68-5fa1b26d18d4",
+          "ImageUrl": "",
+          "Name": "Hair Tools & Accessories",
+          "OriginalName": "hair-tools-accessories",
+          "SubCategories": [
+            {
+              "Id": "f1a81e03-aea2-4dad-a6c3-ca43ee54be6e",
+              "ImageUrl": "",
+              "Name": "Brushes & Combs",
+              "OriginalName": "brushes-combs",
+              "SubCategories": []
+            },
+            {
+              "Id": "b01addb7-45fd-4714-99be-b9c2a32b7cc2",
+              "ImageUrl": "",
+              "Name": "Hair Colouring Tools",
+              "OriginalName": "hair-colouring-tools",
+              "SubCategories": []
+            },
+            {
+              "Id": "1855811f-8227-40dc-a93e-f6c9c4cd925a",
+              "ImageUrl": "",
+              "Name": "Hair Rollers",
+              "OriginalName": "hair-rollers",
+              "SubCategories": []
+            },
+            {
+              "Id": "3bf5e1e8-1b74-43a5-8e1b-cccee534822e",
+              "ImageUrl": "",
+              "Name": "Other Hair Tools & Accessories",
+              "OriginalName": "other",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "3b65b3c4-ee99-4b84-b60a-904a7973d311",
+          "ImageUrl": "",
+          "Name": "Jewellery",
+          "OriginalName": "jewellery",
+          "SubCategories": [
+            {
+              "Id": "df40e3e3-2005-42c7-abe0-ecf335716d9b",
+              "ImageUrl": "",
+              "Name": "Earrings",
+              "OriginalName": "earrings",
+              "SubCategories": []
+            },
+            {
+              "Id": "70e4e42c-0e3e-4b6a-a065-b4b1b8447a63",
+              "ImageUrl": "",
+              "Name": "Rings",
+              "OriginalName": "rings",
+              "SubCategories": []
+            },
+            {
+              "Id": "165f6561-e65b-4732-958a-5278961b511c",
+              "ImageUrl": "",
+              "Name": "Bracelets",
+              "OriginalName": "bracelets",
+              "SubCategories": []
+            },
+            {
+              "Id": "5890e467-6a55-4766-8507-b7a27a13149d",
+              "ImageUrl": "",
+              "Name": "Necklaces",
+              "OriginalName": "necklaces",
+              "SubCategories": []
+            },
+            {
+              "Id": "06b01227-7184-46b5-881d-9c8e8a50c2e5",
+              "ImageUrl": "",
+              "Name": "Watches",
+              "OriginalName": "watches",
+              "SubCategories": []
+            },
+            {
+              "Id": "58259cc7-ac99-44c6-8d08-7384ae26d25d",
+              "ImageUrl": "",
+              "Name": "Other Jewellery",
+              "OriginalName": "other",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "dad09945-95c4-4b51-b3b7-376aa6ec30f3",
+          "ImageUrl": "",
+          "Name": "Fashion",
+          "OriginalName": "fashion",
+          "SubCategories": [
+            {
+              "Id": "4bb4981c-a0ad-4f7c-b11b-67f1aedadef8",
+              "ImageUrl": "",
+              "Name": "Bags",
+              "OriginalName": "bags",
+              "SubCategories": []
+            },
+            {
+              "Id": "4fcdb798-a4de-48ef-b199-06779ffcfd61",
+              "ImageUrl": "",
+              "Name": "Purses",
+              "OriginalName": "purses",
+              "SubCategories": []
+            },
+            {
+              "Id": "f6447206-c952-43ff-8e71-80026031db16",
+              "ImageUrl": "",
+              "Name": "Belts",
+              "OriginalName": "belts",
+              "SubCategories": []
+            },
+            {
+              "Id": "ca24e1f0-c736-4da2-890e-b57571767c15",
+              "ImageUrl": "",
+              "Name": "Sunglasses",
+              "OriginalName": "sunglasses",
+              "SubCategories": []
+            },
+            {
+              "Id": "13073020-8159-4c09-ad96-a670c3a1c4e0",
+              "ImageUrl": "",
+              "Name": "Umbrellas",
+              "OriginalName": "umbrellas",
+              "SubCategories": []
+            },
+            {
+              "Id": "956df135-119c-4562-ab71-166e3b73b06b",
+              "ImageUrl": "",
+              "Name": "Hats",
+              "OriginalName": "hats",
+              "SubCategories": []
+            },
+            {
+              "Id": "d0692453-3c5b-4b81-a984-94307ab4a61a",
+              "ImageUrl": "",
+              "Name": "Gloves",
+              "OriginalName": "gloves",
+              "SubCategories": []
+            },
+            {
+              "Id": "e41a92bd-9f21-4a39-b2a3-34dbeb373fcd",
+              "ImageUrl": "",
+              "Name": "Scarves",
+              "OriginalName": "scarves",
+              "SubCategories": []
+            },
+            {
+              "Id": "f360e5ed-7466-4849-b9a1-5e0a6558fa8b",
+              "ImageUrl": "",
+              "Name": "Other Fashion",
+              "OriginalName": "other",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "d212dccb-3a09-476e-97e6-9b2b3db513ed",
+          "ImageUrl": "",
+          "Name": "Men's Accessories",
+          "OriginalName": "man",
+          "SubCategories": [
+            {
+              "Id": "61eb4adc-497a-467f-b99e-b6a4dc7ced1b",
+              "ImageUrl": "",
+              "Name": "Men's Bags",
+              "OriginalName": "bags",
+              "SubCategories": []
+            },
+            {
+              "Id": "5fdefe6e-b5ce-4b7e-bc93-0b4b05c51d8e",
+              "ImageUrl": "",
+              "Name": "Shaving & Grooming",
+              "OriginalName": "shaving-grooming",
+              "SubCategories": []
+            },
+            {
+              "Id": "c79f6e07-2067-4e85-8cd4-a811529146ca",
+              "ImageUrl": "",
+              "Name": "Men's Accessories",
+              "OriginalName": "accessories",
+              "SubCategories": []
+            },
+            {
+              "Id": "3fb075b7-e2ec-4ee6-9215-f647114dec90",
+              "ImageUrl": "",
+              "Name": "Men's Watches",
+              "OriginalName": "watches",
+              "SubCategories": []
+            },
+            {
+              "Id": "70dc9d20-5476-4f0c-9ef8-8413f968484a",
+              "ImageUrl": "",
+              "Name": "Other Accessories for Men",
+              "OriginalName": "other",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "89c58b07-29e1-43e7-ab74-268cf3764512",
+          "ImageUrl": "",
+          "Name": "Kids' Accessories",
+          "OriginalName": "kids",
+          "SubCategories": [
+            {
+              "Id": "982b4e5e-8683-46d8-8be1-5c28819b19c7",
+              "ImageUrl": "",
+              "Name": "Baby Accessories",
+              "OriginalName": "baby",
+              "SubCategories": []
+            },
+            {
+              "Id": "c0dc339b-a3f1-4fc0-aee2-8d255a5b2093",
+              "ImageUrl": "",
+              "Name": "Kids' Accessories",
+              "OriginalName": "accessories",
+              "SubCategories": []
+            },
+            {
+              "Id": "f2ff0d78-1991-4809-b55a-08b926433367",
+              "ImageUrl": "",
+              "Name": "Kids' Toothbrushes",
+              "OriginalName": "toothbrushes",
+              "SubCategories": []
+            },
+            {
+              "Id": "a426f5b2-061b-4325-8fc2-74cb31aa94e3",
+              "ImageUrl": "",
+              "Name": "Toys",
+              "OriginalName": "toys",
+              "SubCategories": []
+            },
+            {
+              "Id": "99ff6383-3c02-4714-8516-4dcefc5f1a70",
+              "ImageUrl": "",
+              "Name": "Kids' Other",
+              "OriginalName": "other",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "b65961f9-dd59-4ff6-a00f-6b6efcd1fb5f",
+          "ImageUrl": "",
+          "Name": "Home",
+          "OriginalName": "home",
+          "SubCategories": [
+            {
+              "Id": "86f59c69-b0af-4950-9ae3-b834fb401077",
+              "ImageUrl": "",
+              "Name": "Tableware",
+              "OriginalName": "tableware",
+              "SubCategories": []
+            },
+            {
+              "Id": "d032c942-9e33-45f2-a404-cc16e0ecc0f7",
+              "ImageUrl": "",
+              "Name": "Kitchenware",
+              "OriginalName": "kitchenware",
+              "SubCategories": []
+            },
+            {
+              "Id": "ac4ced36-b038-460d-9e94-038a67e5bce2",
+              "ImageUrl": "",
+              "Name": "Decorations",
+              "OriginalName": "decorations",
+              "SubCategories": []
+            },
+            {
+              "Id": "7db27032-a9fd-4dfc-bd32-c927e39b252e",
+              "ImageUrl": "",
+              "Name": "Candles",
+              "OriginalName": "candles",
+              "SubCategories": []
+            },
+            {
+              "Id": "a4bc143b-5d00-428d-9b9c-efc0a4b270d9",
+              "ImageUrl": "",
+              "Name": "Bathroom Accessories",
+              "OriginalName": "bathroom-accessories",
+              "SubCategories": []
+            },
+            {
+              "Id": "49a1e40a-00ae-4c69-b0c3-efe99b1f25d1",
+              "ImageUrl": "",
+              "Name": "Other for Home",
+              "OriginalName": "other",
+              "SubCategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "38123b78-6ba3-4bff-996f-377911857928",
+      "ImageUrl": "https://media-asia-cdn.oriflame.com/-/media/Images/Categories/Top-Images/2018/Wellness_Top.ashx?u=0101010000",
+      "Name": "Wellness",
+      "OriginalName": "wellness",
+      "SubCategories": [
+        {
+          "Id": "e57dc6b7-690c-427b-9eeb-4314e45c4e2e",
+          "ImageUrl": "",
+          "Name": "Everyday Health & Nutrition ",
+          "OriginalName": "health-anti-ageing",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "2f4215fe-db05-4264-85bd-170930c5b82f",
+      "ImageUrl": "https://media-asia-cdn.oriflame.com/-/media/Images/Categories/Top-Images/2018/Men_Top.ashx?u=0101010000",
+      "Name": "Men",
+      "OriginalName": "men",
+      "SubCategories": [
+        {
+          "Id": "228c8e56-0ed6-4d39-98ba-4058e8ab161f",
+          "ImageUrl": "",
+          "Name": "Men's Skin Care",
+          "OriginalName": "skin-care",
+          "SubCategories": [
+            {
+              "Id": "e49b4b78-bf89-40fb-89d5-b5edd9315727",
+              "ImageUrl": "",
+              "Name": "Men's Moisturisers & Treatments",
+              "OriginalName": "moisturisers-treatments",
+              "SubCategories": []
+            },
+            {
+              "Id": "7fd2f2c7-cd37-40ae-b1b1-2e98192b8899",
+              "ImageUrl": "",
+              "Name": "Men's Cleanser",
+              "OriginalName": "cleanser",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "ac6d51e3-60fc-4069-bfa6-c678a29b3de7",
+          "ImageUrl": "",
+          "Name": "Shaving & Grooming",
+          "OriginalName": "shaving-grooming",
+          "SubCategories": [
+            {
+              "Id": "32ff71a9-d952-41cc-8df7-8ecc766ea043",
+              "ImageUrl": "",
+              "Name": "Shaving & Grooming",
+              "OriginalName": "shaving-grooming",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "5137b5a6-7ee8-4bb0-a6a3-4cbaf9f67085",
+          "ImageUrl": "",
+          "Name": "Men's Fragrance",
+          "OriginalName": "fragrance",
+          "SubCategories": [
+            {
+              "Id": "b087c974-8049-48cd-9153-abc5887eac8a",
+              "ImageUrl": "",
+              "Name": "Men's Perfume",
+              "OriginalName": "perfume",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "1777dbfa-a82a-49d3-9b11-254d02589c6c",
+          "ImageUrl": "",
+          "Name": "Men's Body & Hair",
+          "OriginalName": "body-hair",
+          "SubCategories": [
+            {
+              "Id": "b95c2b7b-87b3-4c85-9b70-fc80f9591e2e",
+              "ImageUrl": "",
+              "Name": "Men's Bath & Shower",
+              "OriginalName": "bath-shower",
+              "SubCategories": []
+            },
+            {
+              "Id": "802000f2-572f-49ce-9c7b-25f15f35042e",
+              "ImageUrl": "",
+              "Name": "Men's Deodorants & Anti-Perspirants",
+              "OriginalName": "deodorants-antiperspirants",
+              "SubCategories": []
+            },
+            {
+              "Id": "e8813c15-8a9f-4dd9-8bd3-a08b45fe9c46",
+              "ImageUrl": "",
+              "Name": "Men's Shampoo",
+              "OriginalName": "shampoo",
+              "SubCategories": []
+            }
+          ]
+        },
+        {
+          "Id": "ec576e33-80f4-4eac-be29-dda596b857d3",
+          "ImageUrl": "",
+          "Name": "Men's Accessories",
+          "OriginalName": "accessories",
+          "SubCategories": [
+            {
+              "Id": "891b1e83-fda8-4e63-9a23-4dd5161b8df0",
+              "ImageUrl": "",
+              "Name": "Bags",
+              "OriginalName": "bags",
+              "SubCategories": []
+            },
+            {
+              "Id": "9fde1222-b8c5-4523-b573-da66f68af0d8",
+              "ImageUrl": "",
+              "Name": "Shaving & Grooming Accessories",
+              "OriginalName": "shaving-grooming",
+              "SubCategories": []
+            },
+            {
+              "Id": "6ca8f6d3-ff98-493a-9a06-dad0b123abf0",
+              "ImageUrl": "",
+              "Name": "Men's Accessories",
+              "OriginalName": "accessories",
+              "SubCategories": []
+            },
+            {
+              "Id": "46989b57-ecb7-4197-86a8-3b3933dc7c7c",
+              "ImageUrl": "",
+              "Name": "Men's Watches",
+              "OriginalName": "watches",
+              "SubCategories": []
+            },
+            {
+              "Id": "4923d7b4-8845-4a5d-8d59-13fb6b554ecf",
+              "ImageUrl": "",
+              "Name": "Other Accessories for Men",
+              "OriginalName": "other",
+              "SubCategories": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
