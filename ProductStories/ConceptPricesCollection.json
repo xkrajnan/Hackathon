@@ -1,0 +1,4017 @@
+{
+  "ConceptPricesCollection": [{
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9833145+00:00",
+      "Price": {
+        "BasicCataloguePrice": 99.00000,
+        "CurrentPrice": 99.00000
+      },
+      "ConceptCode": "32620"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9843156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 32000.00000,
+        "CurrentPrice": 32000.00000
+      },
+      "ConceptCode": "566040"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9843156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 948.00000,
+        "CurrentPrice": 948.00000
+      },
+      "ConceptCode": "566172"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9843156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 12995.00000,
+        "CurrentPrice": 12995.00000
+      },
+      "ConceptCode": "566035"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9853159+00:00",
+      "Price": {
+        "BasicCataloguePrice": 15700.00000,
+        "CurrentPrice": 15700.00000
+      },
+      "ConceptCode": "566036"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9853159+00:00",
+      "Price": {
+        "BasicCataloguePrice": 27000.00000,
+        "CurrentPrice": 27000.00000
+      },
+      "ConceptCode": "566038"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9853159+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2299.00000,
+        "CurrentPrice": 2299.00000
+      },
+      "ConceptCode": "566167"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9863159+00:00",
+      "Price": {
+        "BasicCataloguePrice": 40950.00000,
+        "CurrentPrice": 40950.00000
+      },
+      "ConceptCode": "566041"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9863159+00:00",
+      "Price": {
+        "BasicCataloguePrice": 948.00000,
+        "CurrentPrice": 948.00000
+      },
+      "ConceptCode": "566173"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9863159+00:00",
+      "Price": {
+        "BasicCataloguePrice": 599.00000,
+        "CurrentPrice": 599.00000
+      },
+      "ConceptCode": "566096"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9863159+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2299.00000,
+        "CurrentPrice": 2299.00000
+      },
+      "ConceptCode": "566166"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9873155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 31490.00000,
+        "CurrentPrice": 31490.00000
+      },
+      "ConceptCode": "566039"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9873155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 19600.00000,
+        "CurrentPrice": 19600.00000
+      },
+      "ConceptCode": "566037"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9873155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 0.00000,
+        "CurrentPrice": 0.00000
+      },
+      "ConceptCode": "565978"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9873155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2599.00000,
+        "CurrentPrice": 2599.00000
+      },
+      "ConceptCode": "566280"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9883139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1077.00000,
+        "CurrentPrice": 1077.00000
+      },
+      "ConceptCode": "566201"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9883139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1799.00000,
+        "CurrentPrice": 1799.00000
+      },
+      "ConceptCode": "566278"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9883139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1127.00000,
+        "CurrentPrice": 1127.00000
+      },
+      "ConceptCode": "566343"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9883139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2499.00000,
+        "CurrentPrice": 2499.00000
+      },
+      "ConceptCode": "566338"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9893156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1386.00000,
+        "CurrentPrice": 1386.00000
+      },
+      "ConceptCode": "566217"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9893156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1567.00000,
+        "CurrentPrice": 1567.00000
+      },
+      "ConceptCode": "566297"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9893156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2199.00000,
+        "CurrentPrice": 2199.00000
+      },
+      "ConceptCode": "566279"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9893156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1799.00000,
+        "CurrentPrice": 1799.00000
+      },
+      "ConceptCode": "566336"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9903154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1257.00000,
+        "CurrentPrice": 1257.00000
+      },
+      "ConceptCode": "566216"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9903154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1999.00000,
+        "CurrentPrice": 1999.00000
+      },
+      "ConceptCode": "566356"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9903154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1197.00000,
+        "CurrentPrice": 1197.00000
+      },
+      "ConceptCode": "566215"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9903154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2099.00000,
+        "CurrentPrice": 2099.00000
+      },
+      "ConceptCode": "566235"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9913156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1797.00000,
+        "CurrentPrice": 1797.00000
+      },
+      "ConceptCode": "566214"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9913156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2499.00000,
+        "CurrentPrice": 2499.00000
+      },
+      "ConceptCode": "566209"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9913156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1298.00000,
+        "CurrentPrice": 1298.00000
+      },
+      "ConceptCode": "566352"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9913156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 549.00000,
+        "CurrentPrice": 549.00000
+      },
+      "ConceptCode": "566294"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.992315+00:00",
+      "Price": {
+        "BasicCataloguePrice": 648.00000,
+        "CurrentPrice": 648.00000
+      },
+      "ConceptCode": "566213"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.992315+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1699.00000,
+        "CurrentPrice": 1699.00000
+      },
+      "ConceptCode": "566236"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.992315+00:00",
+      "Price": {
+        "BasicCataloguePrice": 3499.00000,
+        "CurrentPrice": 3499.00000
+      },
+      "ConceptCode": "566277"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.992315+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2099.00000,
+        "CurrentPrice": 2099.00000
+      },
+      "ConceptCode": "566208"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9933153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2199.00000,
+        "CurrentPrice": 2199.00000
+      },
+      "ConceptCode": "566337"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9933153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1599.00000,
+        "CurrentPrice": 1599.00000
+      },
+      "ConceptCode": "566207"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9933153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 369.00000,
+        "CurrentPrice": 369.00000
+      },
+      "ConceptCode": "32407"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9933153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 799.00000,
+        "CurrentPrice": 799.00000
+      },
+      "ConceptCode": "32416"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9943149+00:00",
+      "Price": {
+        "BasicCataloguePrice": 467.00000,
+        "CurrentPrice": 467.00000
+      },
+      "ConceptCode": "30744"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9953151+00:00",
+      "Price": {
+        "BasicCataloguePrice": 149.00000,
+        "CurrentPrice": 149.00000
+      },
+      "ConceptCode": "28283"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9953151+00:00",
+      "Price": {
+        "BasicCataloguePrice": 509.00000,
+        "CurrentPrice": 359.00000
+      },
+      "ConceptCode": "30322"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9953151+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1499.00000,
+        "CurrentPrice": 1499.00000
+      },
+      "ConceptCode": "31527"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9953151+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1199.00000,
+        "CurrentPrice": 1199.00000
+      },
+      "ConceptCode": "31859"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9963145+00:00",
+      "Price": {
+        "BasicCataloguePrice": 9650.00000,
+        "CurrentPrice": 7250.00000
+      },
+      "ConceptCode": "31773"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9963145+00:00",
+      "Price": {
+        "BasicCataloguePrice": 9650.00000,
+        "CurrentPrice": 7250.00000
+      },
+      "ConceptCode": "31775"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9963145+00:00",
+      "Price": {
+        "BasicCataloguePrice": 999.00000,
+        "CurrentPrice": 999.00000
+      },
+      "ConceptCode": "32151"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9973148+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1999.00000,
+        "CurrentPrice": 1999.00000
+      },
+      "ConceptCode": "32950"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9973148+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2499.00000,
+        "CurrentPrice": 2499.00000
+      },
+      "ConceptCode": "32295"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9973148+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1399.00000,
+        "CurrentPrice": 1399.00000
+      },
+      "ConceptCode": "32255"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9973148+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1899.00000,
+        "CurrentPrice": 1899.00000
+      },
+      "ConceptCode": "32871"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9983154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 209.00000,
+        "CurrentPrice": 209.00000
+      },
+      "ConceptCode": "32626"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9983154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 299.00000,
+        "CurrentPrice": 299.00000
+      },
+      "ConceptCode": "32699"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9983154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 369.00000,
+        "CurrentPrice": 369.00000
+      },
+      "ConceptCode": "32621"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9993149+00:00",
+      "Price": {
+        "BasicCataloguePrice": 69.00000,
+        "CurrentPrice": 69.00000
+      },
+      "ConceptCode": "32682"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9993149+00:00",
+      "Price": {
+        "BasicCataloguePrice": 369.00000,
+        "CurrentPrice": 369.00000
+      },
+      "ConceptCode": "32622"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9993149+00:00",
+      "Price": {
+        "BasicCataloguePrice": 379.00000,
+        "CurrentPrice": 379.00000
+      },
+      "ConceptCode": "32698"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:01.9993149+00:00",
+      "Price": {
+        "BasicCataloguePrice": 599.00000,
+        "CurrentPrice": 599.00000
+      },
+      "ConceptCode": "32415"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.000314+00:00",
+      "Price": {
+        "BasicCataloguePrice": 299.00000,
+        "CurrentPrice": 299.00000
+      },
+      "ConceptCode": "32703"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.000314+00:00",
+      "Price": {
+        "BasicCataloguePrice": 169.00000,
+        "CurrentPrice": 169.00000
+      },
+      "ConceptCode": "32702"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.000314+00:00",
+      "Price": {
+        "BasicCataloguePrice": 299.00000,
+        "CurrentPrice": 299.00000
+      },
+      "ConceptCode": "32700"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.000314+00:00",
+      "Price": {
+        "BasicCataloguePrice": 235.00000,
+        "CurrentPrice": 235.00000
+      },
+      "ConceptCode": "35487"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0013251+00:00",
+      "Price": {
+        "BasicCataloguePrice": 3499.00000,
+        "CurrentPrice": 3499.00000
+      },
+      "ConceptCode": "35488"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0013251+00:00",
+      "Price": {
+        "BasicCataloguePrice": 69.00000,
+        "CurrentPrice": 69.00000
+      },
+      "ConceptCode": "35483"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0013251+00:00",
+      "Price": {
+        "BasicCataloguePrice": 209.00000,
+        "CurrentPrice": 209.00000
+      },
+      "ConceptCode": "35484"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0013251+00:00",
+      "Price": {
+        "BasicCataloguePrice": 235.00000,
+        "CurrentPrice": 235.00000
+      },
+      "ConceptCode": "35486"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.002315+00:00",
+      "Price": {
+        "BasicCataloguePrice": 419.00000,
+        "CurrentPrice": 419.00000
+      },
+      "ConceptCode": "35448"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.002315+00:00",
+      "Price": {
+        "BasicCataloguePrice": 239.00000,
+        "CurrentPrice": 239.00000
+      },
+      "ConceptCode": "35485"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.002315+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35803"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.002315+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35802"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0033146+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35801"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0033146+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35800"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0033146+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35797"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0033146+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35798"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0043129+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35799"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0043129+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35090"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0043129+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35092"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0043129+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35093"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0053145+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35091"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0053145+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35087"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0053145+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35088"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0063212+00:00",
+      "Price": {
+        "BasicCataloguePrice": 329.00000,
+        "CurrentPrice": 329.00000
+      },
+      "ConceptCode": "35010"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0063212+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35089"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0063212+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35094"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.007312+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1499.00000,
+        "CurrentPrice": 1499.00000
+      },
+      "ConceptCode": "35524"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.007312+00:00",
+      "Price": {
+        "BasicCataloguePrice": 79.00000,
+        "CurrentPrice": 79.00000
+      },
+      "ConceptCode": "35551"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.007312+00:00",
+      "Price": {
+        "BasicCataloguePrice": 79.00000,
+        "CurrentPrice": 79.00000
+      },
+      "ConceptCode": "35552"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0083125+00:00",
+      "Price": {
+        "BasicCataloguePrice": 79.00000,
+        "CurrentPrice": 79.00000
+      },
+      "ConceptCode": "35553"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0083125+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "35580"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0083125+00:00",
+      "Price": {
+        "BasicCataloguePrice": 235.00000,
+        "CurrentPrice": 169.00000
+      },
+      "ConceptCode": "35388"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0093143+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1799.00000,
+        "CurrentPrice": 1799.00000
+      },
+      "ConceptCode": "30912"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0093143+00:00",
+      "Price": {
+        "BasicCataloguePrice": 999.00000,
+        "CurrentPrice": 999.00000
+      },
+      "ConceptCode": "30878"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0093143+00:00",
+      "Price": {
+        "BasicCataloguePrice": 329.00000,
+        "CurrentPrice": 329.00000
+      },
+      "ConceptCode": "33874"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0103145+00:00",
+      "Price": {
+        "BasicCataloguePrice": 539.00000,
+        "CurrentPrice": 539.00000
+      },
+      "ConceptCode": "33844"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0103145+00:00",
+      "Price": {
+        "BasicCataloguePrice": 679.00000,
+        "CurrentPrice": 679.00000
+      },
+      "ConceptCode": "33856"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.011314+00:00",
+      "Price": {
+        "BasicCataloguePrice": 799.00000,
+        "CurrentPrice": 799.00000
+      },
+      "ConceptCode": "33668"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.011314+00:00",
+      "Price": {
+        "BasicCataloguePrice": 779.00000,
+        "CurrentPrice": 779.00000
+      },
+      "ConceptCode": "33454"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.011314+00:00",
+      "Price": {
+        "BasicCataloguePrice": 499.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "33488"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0123147+00:00",
+      "Price": {
+        "BasicCataloguePrice": 679.00000,
+        "CurrentPrice": 679.00000
+      },
+      "ConceptCode": "33452"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0123147+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2499.00000,
+        "CurrentPrice": 2499.00000
+      },
+      "ConceptCode": "33413"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0133132+00:00",
+      "Price": {
+        "BasicCataloguePrice": 629.00000,
+        "CurrentPrice": 499.00000
+      },
+      "ConceptCode": "33186"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0133132+00:00",
+      "Price": {
+        "BasicCataloguePrice": 479.00000,
+        "CurrentPrice": 479.00000
+      },
+      "ConceptCode": "33123"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0133132+00:00",
+      "Price": {
+        "BasicCataloguePrice": 449.00000,
+        "CurrentPrice": 449.00000
+      },
+      "ConceptCode": "33313"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0133132+00:00",
+      "Price": {
+        "BasicCataloguePrice": 399.00000,
+        "CurrentPrice": 399.00000
+      },
+      "ConceptCode": "33318"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0143139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 599.00000,
+        "CurrentPrice": 419.00000
+      },
+      "ConceptCode": "33222"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0143139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 399.00000,
+        "CurrentPrice": 399.00000
+      },
+      "ConceptCode": "33252"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0153143+00:00",
+      "Price": {
+        "BasicCataloguePrice": 199.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "33257"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0153143+00:00",
+      "Price": {
+        "BasicCataloguePrice": 399.00000,
+        "CurrentPrice": 399.00000
+      },
+      "ConceptCode": "33283"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0153143+00:00",
+      "Price": {
+        "BasicCataloguePrice": 699.00000,
+        "CurrentPrice": 449.00000
+      },
+      "ConceptCode": "33225"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0153143+00:00",
+      "Price": {
+        "BasicCataloguePrice": 699.00000,
+        "CurrentPrice": 449.00000
+      },
+      "ConceptCode": "33224"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.016314+00:00",
+      "Price": {
+        "BasicCataloguePrice": 329.00000,
+        "CurrentPrice": 329.00000
+      },
+      "ConceptCode": "33285"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.016314+00:00",
+      "Price": {
+        "BasicCataloguePrice": 449.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "33907"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0173193+00:00",
+      "Price": {
+        "BasicCataloguePrice": 329.00000,
+        "CurrentPrice": 329.00000
+      },
+      "ConceptCode": "33938"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0173193+00:00",
+      "Price": {
+        "BasicCataloguePrice": 599.00000,
+        "CurrentPrice": 599.00000
+      },
+      "ConceptCode": "33995"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0173193+00:00",
+      "Price": {
+        "BasicCataloguePrice": 369.00000,
+        "CurrentPrice": 369.00000
+      },
+      "ConceptCode": "33522"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0183139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 369.00000,
+        "CurrentPrice": 369.00000
+      },
+      "ConceptCode": "33524"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0183139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 389.00000,
+        "CurrentPrice": 389.00000
+      },
+      "ConceptCode": "33523"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0183139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2199.00000,
+        "CurrentPrice": 2199.00000
+      },
+      "ConceptCode": "39951"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0183139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 5999.00000,
+        "CurrentPrice": 5999.00000
+      },
+      "ConceptCode": "39965"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0183139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2499.00000,
+        "CurrentPrice": 2499.00000
+      },
+      "ConceptCode": "39952"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0193139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2995.00000,
+        "CurrentPrice": 2995.00000
+      },
+      "ConceptCode": "39994"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0193139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 3999.00000,
+        "CurrentPrice": 3999.00000
+      },
+      "ConceptCode": "39954"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0193139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1799.00000,
+        "CurrentPrice": 1799.00000
+      },
+      "ConceptCode": "39949"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0193139+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1999.00000,
+        "CurrentPrice": 1999.00000
+      },
+      "ConceptCode": "39940"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0203135+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1490.00000,
+        "CurrentPrice": 1490.00000
+      },
+      "ConceptCode": "39988"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0203135+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1499.00000,
+        "CurrentPrice": 1499.00000
+      },
+      "ConceptCode": "39948"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0203135+00:00",
+      "Price": {
+        "BasicCataloguePrice": 3490.00000,
+        "CurrentPrice": 3490.00000
+      },
+      "ConceptCode": "39991"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0203135+00:00",
+      "Price": {
+        "BasicCataloguePrice": 129.00000,
+        "CurrentPrice": 129.00000
+      },
+      "ConceptCode": "34911"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0213131+00:00",
+      "Price": {
+        "BasicCataloguePrice": 449.00000,
+        "CurrentPrice": 449.00000
+      },
+      "ConceptCode": "34906"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0213131+00:00",
+      "Price": {
+        "BasicCataloguePrice": 59.00000,
+        "CurrentPrice": 59.00000
+      },
+      "ConceptCode": "34413"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0213131+00:00",
+      "Price": {
+        "BasicCataloguePrice": 59.00000,
+        "CurrentPrice": 59.00000
+      },
+      "ConceptCode": "34414"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0213131+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1499.00000,
+        "CurrentPrice": 1199.00000
+      },
+      "ConceptCode": "34416"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0223137+00:00",
+      "Price": {
+        "BasicCataloguePrice": 299.00000,
+        "CurrentPrice": 299.00000
+      },
+      "ConceptCode": "34384"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0223137+00:00",
+      "Price": {
+        "BasicCataloguePrice": 649.00000,
+        "CurrentPrice": 649.00000
+      },
+      "ConceptCode": "34525"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0223137+00:00",
+      "Price": {
+        "BasicCataloguePrice": 649.00000,
+        "CurrentPrice": 649.00000
+      },
+      "ConceptCode": "34523"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0233315+00:00",
+      "Price": {
+        "BasicCataloguePrice": 649.00000,
+        "CurrentPrice": 649.00000
+      },
+      "ConceptCode": "34524"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0233315+00:00",
+      "Price": {
+        "BasicCataloguePrice": 449.00000,
+        "CurrentPrice": 449.00000
+      },
+      "ConceptCode": "34852"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0233315+00:00",
+      "Price": {
+        "BasicCataloguePrice": 199.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "34621"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0233315+00:00",
+      "Price": {
+        "BasicCataloguePrice": 189.00000,
+        "CurrentPrice": 189.00000
+      },
+      "ConceptCode": "34630"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0243135+00:00",
+      "Price": {
+        "BasicCataloguePrice": 199.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "34623"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0243135+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "34627"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0243135+00:00",
+      "Price": {
+        "BasicCataloguePrice": 199.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "34620"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0243135+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "34626"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0253135+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "34624"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0253135+00:00",
+      "Price": {
+        "BasicCataloguePrice": 199.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "34622"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0253135+00:00",
+      "Price": {
+        "BasicCataloguePrice": 349.00000,
+        "CurrentPrice": 349.00000
+      },
+      "ConceptCode": "34628"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0253135+00:00",
+      "Price": {
+        "BasicCataloguePrice": 199.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "34104"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0263134+00:00",
+      "Price": {
+        "BasicCataloguePrice": 199.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "34103"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0263134+00:00",
+      "Price": {
+        "BasicCataloguePrice": 199.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "34100"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0263134+00:00",
+      "Price": {
+        "BasicCataloguePrice": 4398.00000,
+        "CurrentPrice": 4398.00000
+      },
+      "ConceptCode": "34281"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0263134+00:00",
+      "Price": {
+        "BasicCataloguePrice": 687.00000,
+        "CurrentPrice": 687.00000
+      },
+      "ConceptCode": "34231"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.027313+00:00",
+      "Price": {
+        "BasicCataloguePrice": 687.00000,
+        "CurrentPrice": 687.00000
+      },
+      "ConceptCode": "34230"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.027313+00:00",
+      "Price": {
+        "BasicCataloguePrice": 687.00000,
+        "CurrentPrice": 687.00000
+      },
+      "ConceptCode": "34232"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.028313+00:00",
+      "Price": {
+        "BasicCataloguePrice": 4398.00000,
+        "CurrentPrice": 4398.00000
+      },
+      "ConceptCode": "34283"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.028313+00:00",
+      "Price": {
+        "BasicCataloguePrice": 4398.00000,
+        "CurrentPrice": 4398.00000
+      },
+      "ConceptCode": "34282"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.028313+00:00",
+      "Price": {
+        "BasicCataloguePrice": 309.00000,
+        "CurrentPrice": 309.00000
+      },
+      "ConceptCode": "34036"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.028313+00:00",
+      "Price": {
+        "BasicCataloguePrice": 309.00000,
+        "CurrentPrice": 309.00000
+      },
+      "ConceptCode": "34034"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.028313+00:00",
+      "Price": {
+        "BasicCataloguePrice": 199.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "34032"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0293138+00:00",
+      "Price": {
+        "BasicCataloguePrice": 209.00000,
+        "CurrentPrice": 209.00000
+      },
+      "ConceptCode": "34014"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0293138+00:00",
+      "Price": {
+        "BasicCataloguePrice": 149.00000,
+        "CurrentPrice": 149.00000
+      },
+      "ConceptCode": "34033"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0293138+00:00",
+      "Price": {
+        "BasicCataloguePrice": 179.00000,
+        "CurrentPrice": 179.00000
+      },
+      "ConceptCode": "34031"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0303141+00:00",
+      "Price": {
+        "BasicCataloguePrice": 309.00000,
+        "CurrentPrice": 309.00000
+      },
+      "ConceptCode": "34035"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0303141+00:00",
+      "Price": {
+        "BasicCataloguePrice": 489.00000,
+        "CurrentPrice": 489.00000
+      },
+      "ConceptCode": "34039"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0303141+00:00",
+      "Price": {
+        "BasicCataloguePrice": 599.00000,
+        "CurrentPrice": 499.00000
+      },
+      "ConceptCode": "34060"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0303141+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2999.00000,
+        "CurrentPrice": 2999.00000
+      },
+      "ConceptCode": "37763"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.031314+00:00",
+      "Price": {
+        "BasicCataloguePrice": 9650.00000,
+        "CurrentPrice": 7250.00000
+      },
+      "ConceptCode": "37841"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.031314+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2250.00000,
+        "CurrentPrice": 2250.00000
+      },
+      "ConceptCode": "31545"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.031314+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2150.00000,
+        "CurrentPrice": 2150.00000
+      },
+      "ConceptCode": "31544"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.031314+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2450.00000,
+        "CurrentPrice": 2450.00000
+      },
+      "ConceptCode": "31547"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0323169+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1500.00000,
+        "CurrentPrice": 1500.00000
+      },
+      "ConceptCode": "31546"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0323169+00:00",
+      "Price": {
+        "BasicCataloguePrice": 179.00000,
+        "CurrentPrice": 125.00000
+      },
+      "ConceptCode": "32221"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0323169+00:00",
+      "Price": {
+        "BasicCataloguePrice": 129.00000,
+        "CurrentPrice": 129.00000
+      },
+      "ConceptCode": "32230"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0323169+00:00",
+      "Price": {
+        "BasicCataloguePrice": 179.00000,
+        "CurrentPrice": 125.00000
+      },
+      "ConceptCode": "32223"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0333164+00:00",
+      "Price": {
+        "BasicCataloguePrice": 515.00000,
+        "CurrentPrice": 515.00000
+      },
+      "ConceptCode": "32666"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0333164+00:00",
+      "Price": {
+        "BasicCataloguePrice": 179.00000,
+        "CurrentPrice": 125.00000
+      },
+      "ConceptCode": "32668"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0333164+00:00",
+      "Price": {
+        "BasicCataloguePrice": 579.00000,
+        "CurrentPrice": 579.00000
+      },
+      "ConceptCode": "31710"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0333164+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2199.00000,
+        "CurrentPrice": 2199.00000
+      },
+      "ConceptCode": "117556"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0343155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 329.00000,
+        "CurrentPrice": 329.00000
+      },
+      "ConceptCode": "32537"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0343155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1000.00000,
+        "CurrentPrice": 1000.00000
+      },
+      "ConceptCode": "130559"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0343155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2298.00000,
+        "CurrentPrice": 2298.00000
+      },
+      "ConceptCode": "130553"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0353245+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1499.00000,
+        "CurrentPrice": 1499.00000
+      },
+      "ConceptCode": "130676"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0353245+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1490.00000,
+        "CurrentPrice": 1490.00000
+      },
+      "ConceptCode": "130677"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0353245+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2999.00000,
+        "CurrentPrice": 2999.00000
+      },
+      "ConceptCode": "28449"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0353245+00:00",
+      "Price": {
+        "BasicCataloguePrice": 3999.00000,
+        "CurrentPrice": 3999.00000
+      },
+      "ConceptCode": "129195"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0363165+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2199.00000,
+        "CurrentPrice": 2199.00000
+      },
+      "ConceptCode": "129246"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0363165+00:00",
+      "Price": {
+        "BasicCataloguePrice": 200.00000,
+        "CurrentPrice": 200.00000
+      },
+      "ConceptCode": "129140"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0363165+00:00",
+      "Price": {
+        "BasicCataloguePrice": 599.00000,
+        "CurrentPrice": 599.00000
+      },
+      "ConceptCode": "128773"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0363165+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1799.00000,
+        "CurrentPrice": 1799.00000
+      },
+      "ConceptCode": "129245"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0373169+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2499.00000,
+        "CurrentPrice": 2499.00000
+      },
+      "ConceptCode": "129247"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0373169+00:00",
+      "Price": {
+        "BasicCataloguePrice": 57000.00000,
+        "CurrentPrice": 57000.00000
+      },
+      "ConceptCode": "129683"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0373169+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1857.00000,
+        "CurrentPrice": 1857.00000
+      },
+      "ConceptCode": "127725"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0383162+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1318.00000,
+        "CurrentPrice": 1318.00000
+      },
+      "ConceptCode": "127724"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0383162+00:00",
+      "Price": {
+        "BasicCataloguePrice": 399.00000,
+        "CurrentPrice": 399.00000
+      },
+      "ConceptCode": "29934"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0393164+00:00",
+      "Price": {
+        "BasicCataloguePrice": 3999.00000,
+        "CurrentPrice": 3999.00000
+      },
+      "ConceptCode": "29915"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0393164+00:00",
+      "Price": {
+        "BasicCataloguePrice": 309.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "29723"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0393164+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2499.00000,
+        "CurrentPrice": 2499.00000
+      },
+      "ConceptCode": "29727"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.040317+00:00",
+      "Price": {
+        "BasicCataloguePrice": 5724.00000,
+        "CurrentPrice": 4299.00000
+      },
+      "ConceptCode": "29857"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.040317+00:00",
+      "Price": {
+        "BasicCataloguePrice": 4644.00000,
+        "CurrentPrice": 3499.00000
+      },
+      "ConceptCode": "29855"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0413164+00:00",
+      "Price": {
+        "BasicCataloguePrice": 4644.00000,
+        "CurrentPrice": 3499.00000
+      },
+      "ConceptCode": "29856"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0413164+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2349.00000,
+        "CurrentPrice": 2349.00000
+      },
+      "ConceptCode": "29455"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0423166+00:00",
+      "Price": {
+        "BasicCataloguePrice": 499.00000,
+        "CurrentPrice": 499.00000
+      },
+      "ConceptCode": "29461"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0423166+00:00",
+      "Price": {
+        "BasicCataloguePrice": 259.00000,
+        "CurrentPrice": 209.00000
+      },
+      "ConceptCode": "29597"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0433205+00:00",
+      "Price": {
+        "BasicCataloguePrice": 389.00000,
+        "CurrentPrice": 315.00000
+      },
+      "ConceptCode": "29674"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0433205+00:00",
+      "Price": {
+        "BasicCataloguePrice": 359.00000,
+        "CurrentPrice": 359.00000
+      },
+      "ConceptCode": "29655"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0443153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 209.00000,
+        "CurrentPrice": 209.00000
+      },
+      "ConceptCode": "29591"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0443153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 299.00000,
+        "CurrentPrice": 299.00000
+      },
+      "ConceptCode": "29580"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0453153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 229.00000,
+        "CurrentPrice": 185.00000
+      },
+      "ConceptCode": "29598"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0453153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 219.00000,
+        "CurrentPrice": 175.00000
+      },
+      "ConceptCode": "29593"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0453153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 239.00000,
+        "CurrentPrice": 239.00000
+      },
+      "ConceptCode": "29595"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0463153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 359.00000,
+        "CurrentPrice": 289.00000
+      },
+      "ConceptCode": "29594"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0463153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 209.00000,
+        "CurrentPrice": 209.00000
+      },
+      "ConceptCode": "29592"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0463153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 289.00000,
+        "CurrentPrice": 235.00000
+      },
+      "ConceptCode": "29599"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0463153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 309.00000,
+        "CurrentPrice": 249.00000
+      },
+      "ConceptCode": "29596"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0473157+00:00",
+      "Price": {
+        "BasicCataloguePrice": 987.00000,
+        "CurrentPrice": 987.00000
+      },
+      "ConceptCode": "43413"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0473157+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1499.00000,
+        "CurrentPrice": 1499.00000
+      },
+      "ConceptCode": "41740"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0483154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 299.00000,
+        "CurrentPrice": 299.00000
+      },
+      "ConceptCode": "30520"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0483154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1227.00000,
+        "CurrentPrice": 1227.00000
+      },
+      "ConceptCode": "566104"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0483154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 109.00000,
+        "CurrentPrice": 109.00000
+      },
+      "ConceptCode": "31133"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0493325+00:00",
+      "Price": {
+        "BasicCataloguePrice": 399.00000,
+        "CurrentPrice": 399.00000
+      },
+      "ConceptCode": "28192"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0493325+00:00",
+      "Price": {
+        "BasicCataloguePrice": 89.00000,
+        "CurrentPrice": 89.00000
+      },
+      "ConceptCode": "8590"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0493325+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2799.00000,
+        "CurrentPrice": 2799.00000
+      },
+      "ConceptCode": "26851"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0493325+00:00",
+      "Price": {
+        "BasicCataloguePrice": 200.00000,
+        "CurrentPrice": 200.00000
+      },
+      "ConceptCode": "565433"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0503153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2799.00000,
+        "CurrentPrice": 2799.00000
+      },
+      "ConceptCode": "26850"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0503153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 69.00000,
+        "CurrentPrice": 69.00000
+      },
+      "ConceptCode": "8617"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0503153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1999.00000,
+        "CurrentPrice": 1999.00000
+      },
+      "ConceptCode": "565892"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0503153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 269.00000,
+        "CurrentPrice": 269.00000
+      },
+      "ConceptCode": "32042"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0513154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 279.00000,
+        "CurrentPrice": 279.00000
+      },
+      "ConceptCode": "32043"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0513154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2799.00000,
+        "CurrentPrice": 2799.00000
+      },
+      "ConceptCode": "27232"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0513154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 3000.00000,
+        "CurrentPrice": 3000.00000
+      },
+      "ConceptCode": "91062"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0513154+00:00",
+      "Price": {
+        "BasicCataloguePrice": 215.00000,
+        "CurrentPrice": 215.00000
+      },
+      "ConceptCode": "32041"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0523156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1499.00000,
+        "CurrentPrice": 1499.00000
+      },
+      "ConceptCode": "565990"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0523156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2099.00000,
+        "CurrentPrice": 2099.00000
+      },
+      "ConceptCode": "565991"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0523156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 235.00000,
+        "CurrentPrice": 235.00000
+      },
+      "ConceptCode": "8048"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0523156+00:00",
+      "Price": {
+        "BasicCataloguePrice": 775.00000,
+        "CurrentPrice": 775.00000
+      },
+      "ConceptCode": "565884"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0533155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 399.00000,
+        "CurrentPrice": 299.00000
+      },
+      "ConceptCode": "32346"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0533155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1999.00000,
+        "CurrentPrice": 1999.00000
+      },
+      "ConceptCode": "565893"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0533155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1499.00000,
+        "CurrentPrice": 1499.00000
+      },
+      "ConceptCode": "565967"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0533155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2099.00000,
+        "CurrentPrice": 2099.00000
+      },
+      "ConceptCode": "565968"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0543153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 359.00000,
+        "CurrentPrice": 359.00000
+      },
+      "ConceptCode": "32348"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0543153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 775.00000,
+        "CurrentPrice": 775.00000
+      },
+      "ConceptCode": "565852"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0543153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 100.00000,
+        "CurrentPrice": 100.00000
+      },
+      "ConceptCode": "565426"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0543153+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1799.00000,
+        "CurrentPrice": 1799.00000
+      },
+      "ConceptCode": "565969"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0553155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2099.00000,
+        "CurrentPrice": 2099.00000
+      },
+      "ConceptCode": "565970"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0553155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 359.00000,
+        "CurrentPrice": 359.00000
+      },
+      "ConceptCode": "32408"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0553155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 14995.00000,
+        "CurrentPrice": 14995.00000
+      },
+      "ConceptCode": "565979"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0553155+00:00",
+      "Price": {
+        "BasicCataloguePrice": 10000.00000,
+        "CurrentPrice": 10000.00000
+      },
+      "ConceptCode": "565980"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0563122+00:00",
+      "Price": {
+        "BasicCataloguePrice": 929.00000,
+        "CurrentPrice": 789.00000
+      },
+      "ConceptCode": "30988"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0573122+00:00",
+      "Price": {
+        "BasicCataloguePrice": 499.00000,
+        "CurrentPrice": 499.00000
+      },
+      "ConceptCode": "30653"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0573122+00:00",
+      "Price": {
+        "BasicCataloguePrice": 179.00000,
+        "CurrentPrice": 179.00000
+      },
+      "ConceptCode": "30809"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0583133+00:00",
+      "Price": {
+        "BasicCataloguePrice": 149.00000,
+        "CurrentPrice": 149.00000
+      },
+      "ConceptCode": "27441"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0583133+00:00",
+      "Price": {
+        "BasicCataloguePrice": 235.00000,
+        "CurrentPrice": 235.00000
+      },
+      "ConceptCode": "31704"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0583133+00:00",
+      "Price": {
+        "BasicCataloguePrice": 205.00000,
+        "CurrentPrice": 205.00000
+      },
+      "ConceptCode": "32472"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0593213+00:00",
+      "Price": {
+        "BasicCataloguePrice": 779.00000,
+        "CurrentPrice": 779.00000
+      },
+      "ConceptCode": "31779"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0593213+00:00",
+      "Price": {
+        "BasicCataloguePrice": 349.00000,
+        "CurrentPrice": 349.00000
+      },
+      "ConceptCode": "31708"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0593213+00:00",
+      "Price": {
+        "BasicCataloguePrice": 349.00000,
+        "CurrentPrice": 349.00000
+      },
+      "ConceptCode": "31709"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0603122+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2299.00000,
+        "CurrentPrice": 2299.00000
+      },
+      "ConceptCode": "28544"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0603122+00:00",
+      "Price": {
+        "BasicCataloguePrice": 519.00000,
+        "CurrentPrice": 369.00000
+      },
+      "ConceptCode": "23555"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0603122+00:00",
+      "Price": {
+        "BasicCataloguePrice": 109.00000,
+        "CurrentPrice": 95.00000
+      },
+      "ConceptCode": "22715"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0613158+00:00",
+      "Price": {
+        "BasicCataloguePrice": 495.00000,
+        "CurrentPrice": 369.00000
+      },
+      "ConceptCode": "22713"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0613158+00:00",
+      "Price": {
+        "BasicCataloguePrice": 209.00000,
+        "CurrentPrice": 209.00000
+      },
+      "ConceptCode": "22714"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0613158+00:00",
+      "Price": {
+        "BasicCataloguePrice": 749.00000,
+        "CurrentPrice": 749.00000
+      },
+      "ConceptCode": "24855"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0623204+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2499.00000,
+        "CurrentPrice": 2499.00000
+      },
+      "ConceptCode": "30863"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0633128+00:00",
+      "Price": {
+        "BasicCataloguePrice": 119.00000,
+        "CurrentPrice": 119.00000
+      },
+      "ConceptCode": "30895"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0633128+00:00",
+      "Price": {
+        "BasicCataloguePrice": 129.00000,
+        "CurrentPrice": 129.00000
+      },
+      "ConceptCode": "27730"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0643125+00:00",
+      "Price": {
+        "BasicCataloguePrice": 209.00000,
+        "CurrentPrice": 209.00000
+      },
+      "ConceptCode": "26825"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0643125+00:00",
+      "Price": {
+        "BasicCataloguePrice": 389.00000,
+        "CurrentPrice": 389.00000
+      },
+      "ConceptCode": "30124"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0643125+00:00",
+      "Price": {
+        "BasicCataloguePrice": 369.00000,
+        "CurrentPrice": 369.00000
+      },
+      "ConceptCode": "30153"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0653117+00:00",
+      "Price": {
+        "BasicCataloguePrice": 319.00000,
+        "CurrentPrice": 319.00000
+      },
+      "ConceptCode": "25479"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0653117+00:00",
+      "Price": {
+        "BasicCataloguePrice": 279.00000,
+        "CurrentPrice": 279.00000
+      },
+      "ConceptCode": "26436"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0663122+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1999.00000,
+        "CurrentPrice": 1999.00000
+      },
+      "ConceptCode": "24547"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0663122+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1779.00000,
+        "CurrentPrice": 1779.00000
+      },
+      "ConceptCode": "25414"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0673119+00:00",
+      "Price": {
+        "BasicCataloguePrice": 199.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "9588"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0673119+00:00",
+      "Price": {
+        "BasicCataloguePrice": 209.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "25281"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.068312+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1599.00000,
+        "CurrentPrice": 1599.00000
+      },
+      "ConceptCode": "15397"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.068312+00:00",
+      "Price": {
+        "BasicCataloguePrice": 699.00000,
+        "CurrentPrice": 699.00000
+      },
+      "ConceptCode": "31594"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0693116+00:00",
+      "Price": {
+        "BasicCataloguePrice": 629.00000,
+        "CurrentPrice": 445.00000
+      },
+      "ConceptCode": "31635"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0693116+00:00",
+      "Price": {
+        "BasicCataloguePrice": 629.00000,
+        "CurrentPrice": 445.00000
+      },
+      "ConceptCode": "31634"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0703121+00:00",
+      "Price": {
+        "BasicCataloguePrice": 199.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "27570"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0703121+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1590.00000,
+        "CurrentPrice": 1590.00000
+      },
+      "ConceptCode": "91103"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.071312+00:00",
+      "Price": {
+        "BasicCataloguePrice": 499.00000,
+        "CurrentPrice": 499.00000
+      },
+      "ConceptCode": "30881"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.071312+00:00",
+      "Price": {
+        "BasicCataloguePrice": 309.00000,
+        "CurrentPrice": 309.00000
+      },
+      "ConceptCode": "33445"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0723122+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1399.00000,
+        "CurrentPrice": 1399.00000
+      },
+      "ConceptCode": "21339"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0723122+00:00",
+      "Price": {
+        "BasicCataloguePrice": 449.00000,
+        "CurrentPrice": 449.00000
+      },
+      "ConceptCode": "33030"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0733116+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2699.00000,
+        "CurrentPrice": 2699.00000
+      },
+      "ConceptCode": "13659"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0733116+00:00",
+      "Price": {
+        "BasicCataloguePrice": 479.00000,
+        "CurrentPrice": 479.00000
+      },
+      "ConceptCode": "32616"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0743113+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2799.00000,
+        "CurrentPrice": 2799.00000
+      },
+      "ConceptCode": "18437"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0743113+00:00",
+      "Price": {
+        "BasicCataloguePrice": 349.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "31606"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0753122+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1499.00000,
+        "CurrentPrice": 1499.00000
+      },
+      "ConceptCode": "22419"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0753122+00:00",
+      "Price": {
+        "BasicCataloguePrice": 375.00000,
+        "CurrentPrice": 375.00000
+      },
+      "ConceptCode": "32370"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0763108+00:00",
+      "Price": {
+        "BasicCataloguePrice": 99.00000,
+        "CurrentPrice": 99.00000
+      },
+      "ConceptCode": "32609"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0763108+00:00",
+      "Price": {
+        "BasicCataloguePrice": 489.00000,
+        "CurrentPrice": 489.00000
+      },
+      "ConceptCode": "32617"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0773105+00:00",
+      "Price": {
+        "BasicCataloguePrice": 429.00000,
+        "CurrentPrice": 429.00000
+      },
+      "ConceptCode": "32608"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0773105+00:00",
+      "Price": {
+        "BasicCataloguePrice": 489.00000,
+        "CurrentPrice": 489.00000
+      },
+      "ConceptCode": "34090"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0783268+00:00",
+      "Price": {
+        "BasicCataloguePrice": 419.00000,
+        "CurrentPrice": 419.00000
+      },
+      "ConceptCode": "32624"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0783268+00:00",
+      "Price": {
+        "BasicCataloguePrice": 369.00000,
+        "CurrentPrice": 369.00000
+      },
+      "ConceptCode": "32625"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0793106+00:00",
+      "Price": {
+        "BasicCataloguePrice": 429.00000,
+        "CurrentPrice": 429.00000
+      },
+      "ConceptCode": "32610"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0793106+00:00",
+      "Price": {
+        "BasicCataloguePrice": 469.00000,
+        "CurrentPrice": 469.00000
+      },
+      "ConceptCode": "32603"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0803102+00:00",
+      "Price": {
+        "BasicCataloguePrice": 369.00000,
+        "CurrentPrice": 369.00000
+      },
+      "ConceptCode": "32619"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0803102+00:00",
+      "Price": {
+        "BasicCataloguePrice": 369.00000,
+        "CurrentPrice": 369.00000
+      },
+      "ConceptCode": "32618"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0803102+00:00",
+      "Price": {
+        "BasicCataloguePrice": 699.00000,
+        "CurrentPrice": 489.00000
+      },
+      "ConceptCode": "32418"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0813108+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1349.00000,
+        "CurrentPrice": 1349.00000
+      },
+      "ConceptCode": "32198"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0813108+00:00",
+      "Price": {
+        "BasicCataloguePrice": 419.00000,
+        "CurrentPrice": 419.00000
+      },
+      "ConceptCode": "34087"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0823246+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1499.00000,
+        "CurrentPrice": 1119.00000
+      },
+      "ConceptCode": "32477"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0823246+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1349.00000,
+        "CurrentPrice": 1349.00000
+      },
+      "ConceptCode": "32197"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0823246+00:00",
+      "Price": {
+        "BasicCataloguePrice": 649.00000,
+        "CurrentPrice": 489.00000
+      },
+      "ConceptCode": "32464"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0833101+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2299.00000,
+        "CurrentPrice": 2299.00000
+      },
+      "ConceptCode": "32203"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0833101+00:00",
+      "Price": {
+        "BasicCataloguePrice": 899.00000,
+        "CurrentPrice": 899.00000
+      },
+      "ConceptCode": "32463"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0843105+00:00",
+      "Price": {
+        "BasicCataloguePrice": 899.00000,
+        "CurrentPrice": 629.00000
+      },
+      "ConceptCode": "32908"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0843105+00:00",
+      "Price": {
+        "BasicCataloguePrice": 729.00000,
+        "CurrentPrice": 729.00000
+      },
+      "ConceptCode": "33226"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.085326+00:00",
+      "Price": {
+        "BasicCataloguePrice": 349.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "33447"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.085326+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1299.00000,
+        "CurrentPrice": 1299.00000
+      },
+      "ConceptCode": "32474"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.085326+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1099.00000,
+        "CurrentPrice": 1099.00000
+      },
+      "ConceptCode": "33135"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0863103+00:00",
+      "Price": {
+        "BasicCataloguePrice": 849.00000,
+        "CurrentPrice": 639.00000
+      },
+      "ConceptCode": "32465"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0863103+00:00",
+      "Price": {
+        "BasicCataloguePrice": 779.00000,
+        "CurrentPrice": 779.00000
+      },
+      "ConceptCode": "32476"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0873107+00:00",
+      "Price": {
+        "BasicCataloguePrice": 429.00000,
+        "CurrentPrice": 429.00000
+      },
+      "ConceptCode": "32602"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0873107+00:00",
+      "Price": {
+        "BasicCataloguePrice": 129.00000,
+        "CurrentPrice": 99.00000
+      },
+      "ConceptCode": "32652"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.08831+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1749.00000,
+        "CurrentPrice": 1749.00000
+      },
+      "ConceptCode": "32199"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.08831+00:00",
+      "Price": {
+        "BasicCataloguePrice": 419.00000,
+        "CurrentPrice": 419.00000
+      },
+      "ConceptCode": "32623"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.08831+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1199.00000,
+        "CurrentPrice": 779.00000
+      },
+      "ConceptCode": "32480"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0893109+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1049.00000,
+        "CurrentPrice": 729.00000
+      },
+      "ConceptCode": "35546"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0903093+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1300.00000,
+        "CurrentPrice": 1300.00000
+      },
+      "ConceptCode": "33984"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0903093+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1599.00000,
+        "CurrentPrice": 1599.00000
+      },
+      "ConceptCode": "34143"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0913111+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1499.00000,
+        "CurrentPrice": 1499.00000
+      },
+      "ConceptCode": "33944"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0913111+00:00",
+      "Price": {
+        "BasicCataloguePrice": 799.00000,
+        "CurrentPrice": 799.00000
+      },
+      "ConceptCode": "32462"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0923111+00:00",
+      "Price": {
+        "BasicCataloguePrice": 829.00000,
+        "CurrentPrice": 829.00000
+      },
+      "ConceptCode": "32200"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0923111+00:00",
+      "Price": {
+        "BasicCataloguePrice": 399.00000,
+        "CurrentPrice": 399.00000
+      },
+      "ConceptCode": "33973"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.093311+00:00",
+      "Price": {
+        "BasicCataloguePrice": 99.00000,
+        "CurrentPrice": 99.00000
+      },
+      "ConceptCode": "32611"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0943259+00:00",
+      "Price": {
+        "BasicCataloguePrice": 729.00000,
+        "CurrentPrice": 729.00000
+      },
+      "ConceptCode": "31983"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0943259+00:00",
+      "Price": {
+        "BasicCataloguePrice": 329.00000,
+        "CurrentPrice": 329.00000
+      },
+      "ConceptCode": "1276"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0953102+00:00",
+      "Price": {
+        "BasicCataloguePrice": 495.00000,
+        "CurrentPrice": 495.00000
+      },
+      "ConceptCode": "31850"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0953102+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2999.00000,
+        "CurrentPrice": 2999.00000
+      },
+      "ConceptCode": "33434"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0953102+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1299.00000,
+        "CurrentPrice": 899.00000
+      },
+      "ConceptCode": "32897"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0963097+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1049.00000,
+        "CurrentPrice": 729.00000
+      },
+      "ConceptCode": "35545"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0963097+00:00",
+      "Price": {
+        "BasicCataloguePrice": 599.00000,
+        "CurrentPrice": 599.00000
+      },
+      "ConceptCode": "32649"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.09731+00:00",
+      "Price": {
+        "BasicCataloguePrice": 419.00000,
+        "CurrentPrice": 419.00000
+      },
+      "ConceptCode": "32650"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.09731+00:00",
+      "Price": {
+        "BasicCataloguePrice": 579.00000,
+        "CurrentPrice": 579.00000
+      },
+      "ConceptCode": "30551"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.09731+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2150.00000,
+        "CurrentPrice": 2150.00000
+      },
+      "ConceptCode": "32803"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0983101+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1299.00000,
+        "CurrentPrice": 1299.00000
+      },
+      "ConceptCode": "33108"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0983101+00:00",
+      "Price": {
+        "BasicCataloguePrice": 529.00000,
+        "CurrentPrice": 529.00000
+      },
+      "ConceptCode": "30550"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0993101+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2450.00000,
+        "CurrentPrice": 2450.00000
+      },
+      "ConceptCode": "32805"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.0993101+00:00",
+      "Price": {
+        "BasicCataloguePrice": 329.00000,
+        "CurrentPrice": 329.00000
+      },
+      "ConceptCode": "34042"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.10031+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1099.00000,
+        "CurrentPrice": 1099.00000
+      },
+      "ConceptCode": "32479"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.10031+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1399.00000,
+        "CurrentPrice": 1399.00000
+      },
+      "ConceptCode": "32475"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1013095+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1500.00000,
+        "CurrentPrice": 1500.00000
+      },
+      "ConceptCode": "32804"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1013095+00:00",
+      "Price": {
+        "BasicCataloguePrice": 549.00000,
+        "CurrentPrice": 549.00000
+      },
+      "ConceptCode": "32647"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1013095+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2250.00000,
+        "CurrentPrice": 2250.00000
+      },
+      "ConceptCode": "32658"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.10231+00:00",
+      "Price": {
+        "BasicCataloguePrice": 899.00000,
+        "CurrentPrice": 669.00000
+      },
+      "ConceptCode": "32904"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.10231+00:00",
+      "Price": {
+        "BasicCataloguePrice": 699.00000,
+        "CurrentPrice": 489.00000
+      },
+      "ConceptCode": "34002"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1033104+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1499.00000,
+        "CurrentPrice": 1499.00000
+      },
+      "ConceptCode": "22814"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1033104+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2250.00000,
+        "CurrentPrice": 2250.00000
+      },
+      "ConceptCode": "31541"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1043094+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2150.00000,
+        "CurrentPrice": 2150.00000
+      },
+      "ConceptCode": "31540"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1043094+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2450.00000,
+        "CurrentPrice": 2450.00000
+      },
+      "ConceptCode": "31543"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1053272+00:00",
+      "Price": {
+        "BasicCataloguePrice": 779.00000,
+        "CurrentPrice": 779.00000
+      },
+      "ConceptCode": "31851"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1063113+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1500.00000,
+        "CurrentPrice": 1500.00000
+      },
+      "ConceptCode": "31542"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1063113+00:00",
+      "Price": {
+        "BasicCataloguePrice": 679.00000,
+        "CurrentPrice": 679.00000
+      },
+      "ConceptCode": "31852"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1073092+00:00",
+      "Price": {
+        "BasicCataloguePrice": 799.00000,
+        "CurrentPrice": 799.00000
+      },
+      "ConceptCode": "22815"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1073092+00:00",
+      "Price": {
+        "BasicCataloguePrice": 549.00000,
+        "CurrentPrice": 439.00000
+      },
+      "ConceptCode": "32646"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1073092+00:00",
+      "Price": {
+        "BasicCataloguePrice": 429.00000,
+        "CurrentPrice": 319.00000
+      },
+      "ConceptCode": "32903"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1083097+00:00",
+      "Price": {
+        "BasicCataloguePrice": 779.00000,
+        "CurrentPrice": 545.00000
+      },
+      "ConceptCode": "34044"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1083097+00:00",
+      "Price": {
+        "BasicCataloguePrice": 549.00000,
+        "CurrentPrice": 439.00000
+      },
+      "ConceptCode": "32648"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1093094+00:00",
+      "Price": {
+        "BasicCataloguePrice": 679.00000,
+        "CurrentPrice": 475.00000
+      },
+      "ConceptCode": "34043"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1093094+00:00",
+      "Price": {
+        "BasicCataloguePrice": 229.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "32651"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1103096+00:00",
+      "Price": {
+        "BasicCataloguePrice": 429.00000,
+        "CurrentPrice": 319.00000
+      },
+      "ConceptCode": "32902"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1113099+00:00",
+      "Price": {
+        "BasicCataloguePrice": 629.00000,
+        "CurrentPrice": 629.00000
+      },
+      "ConceptCode": "31601"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1113099+00:00",
+      "Price": {
+        "BasicCataloguePrice": 629.00000,
+        "CurrentPrice": 629.00000
+      },
+      "ConceptCode": "31602"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1123114+00:00",
+      "Price": {
+        "BasicCataloguePrice": 549.00000,
+        "CurrentPrice": 329.00000
+      },
+      "ConceptCode": "31605"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1123114+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1399.00000,
+        "CurrentPrice": 1399.00000
+      },
+      "ConceptCode": "22424"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1133095+00:00",
+      "Price": {
+        "BasicCataloguePrice": 235.00000,
+        "CurrentPrice": 235.00000
+      },
+      "ConceptCode": "34082"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1133095+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1399.00000,
+        "CurrentPrice": 1399.00000
+      },
+      "ConceptCode": "32538"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.114309+00:00",
+      "Price": {
+        "BasicCataloguePrice": 235.00000,
+        "CurrentPrice": 235.00000
+      },
+      "ConceptCode": "34337"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.114309+00:00",
+      "Price": {
+        "BasicCataloguePrice": 399.00000,
+        "CurrentPrice": 399.00000
+      },
+      "ConceptCode": "33027"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.115309+00:00",
+      "Price": {
+        "BasicCataloguePrice": 235.00000,
+        "CurrentPrice": 235.00000
+      },
+      "ConceptCode": "31707"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.115309+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2899.00000,
+        "CurrentPrice": 2899.00000
+      },
+      "ConceptCode": "22442"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1163092+00:00",
+      "Price": {
+        "BasicCataloguePrice": 375.00000,
+        "CurrentPrice": 375.00000
+      },
+      "ConceptCode": "33033"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1163092+00:00",
+      "Price": {
+        "BasicCataloguePrice": 489.00000,
+        "CurrentPrice": 399.00000
+      },
+      "ConceptCode": "33459"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1173089+00:00",
+      "Price": {
+        "BasicCataloguePrice": 649.00000,
+        "CurrentPrice": 499.00000
+      },
+      "ConceptCode": "34063"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1173089+00:00",
+      "Price": {
+        "BasicCataloguePrice": 779.00000,
+        "CurrentPrice": 779.00000
+      },
+      "ConceptCode": "31784"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1183095+00:00",
+      "Price": {
+        "BasicCataloguePrice": 779.00000,
+        "CurrentPrice": 779.00000
+      },
+      "ConceptCode": "31781"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1183095+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2299.00000,
+        "CurrentPrice": 2299.00000
+      },
+      "ConceptCode": "30128"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1193096+00:00",
+      "Price": {
+        "BasicCataloguePrice": 489.00000,
+        "CurrentPrice": 399.00000
+      },
+      "ConceptCode": "31326"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1193096+00:00",
+      "Price": {
+        "BasicCataloguePrice": 3999.00000,
+        "CurrentPrice": 3999.00000
+      },
+      "ConceptCode": "31816"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1203095+00:00",
+      "Price": {
+        "BasicCataloguePrice": 189.00000,
+        "CurrentPrice": 189.00000
+      },
+      "ConceptCode": "33196"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1203095+00:00",
+      "Price": {
+        "BasicCataloguePrice": 549.00000,
+        "CurrentPrice": 549.00000
+      },
+      "ConceptCode": "34332"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1213089+00:00",
+      "Price": {
+        "BasicCataloguePrice": 3199.00000,
+        "CurrentPrice": 3199.00000
+      },
+      "ConceptCode": "30886"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1213089+00:00",
+      "Price": {
+        "BasicCataloguePrice": 749.00000,
+        "CurrentPrice": 749.00000
+      },
+      "ConceptCode": "23378"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1223099+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1099.00000,
+        "CurrentPrice": 1099.00000
+      },
+      "ConceptCode": "32672"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1233086+00:00",
+      "Price": {
+        "BasicCataloguePrice": 209.00000,
+        "CurrentPrice": 209.00000
+      },
+      "ConceptCode": "32160"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1233086+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1549.00000,
+        "CurrentPrice": 1249.00000
+      },
+      "ConceptCode": "32440"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1243094+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1099.00000,
+        "CurrentPrice": 1099.00000
+      },
+      "ConceptCode": "32671"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1243094+00:00",
+      "Price": {
+        "BasicCataloguePrice": 449.00000,
+        "CurrentPrice": 449.00000
+      },
+      "ConceptCode": "32002"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1253098+00:00",
+      "Price": {
+        "BasicCataloguePrice": 349.00000,
+        "CurrentPrice": 349.00000
+      },
+      "ConceptCode": "33520"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1253098+00:00",
+      "Price": {
+        "BasicCataloguePrice": 449.00000,
+        "CurrentPrice": 449.00000
+      },
+      "ConceptCode": "33402"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1263082+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1549.00000,
+        "CurrentPrice": 1549.00000
+      },
+      "ConceptCode": "32438"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1273083+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1099.00000,
+        "CurrentPrice": 1099.00000
+      },
+      "ConceptCode": "32673"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1273083+00:00",
+      "Price": {
+        "BasicCataloguePrice": 3399.00000,
+        "CurrentPrice": 3399.00000
+      },
+      "ConceptCode": "31825"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1273083+00:00",
+      "Price": {
+        "BasicCataloguePrice": 999.00000,
+        "CurrentPrice": 849.00000
+      },
+      "ConceptCode": "33300"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.128309+00:00",
+      "Price": {
+        "BasicCataloguePrice": 209.00000,
+        "CurrentPrice": 209.00000
+      },
+      "ConceptCode": "32173"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.128309+00:00",
+      "Price": {
+        "BasicCataloguePrice": 6000.00000,
+        "CurrentPrice": 4500.00000
+      },
+      "ConceptCode": "29446"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1293084+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1649.00000,
+        "CurrentPrice": 1649.00000
+      },
+      "ConceptCode": "33349"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1293084+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1399.00000,
+        "CurrentPrice": 1399.00000
+      },
+      "ConceptCode": "32540"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1303143+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1399.00000,
+        "CurrentPrice": 1399.00000
+      },
+      "ConceptCode": "34447"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1303143+00:00",
+      "Price": {
+        "BasicCataloguePrice": 329.00000,
+        "CurrentPrice": 329.00000
+      },
+      "ConceptCode": "31029"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1313079+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2999.00000,
+        "CurrentPrice": 2999.00000
+      },
+      "ConceptCode": "33959"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1323091+00:00",
+      "Price": {
+        "BasicCataloguePrice": 329.00000,
+        "CurrentPrice": 329.00000
+      },
+      "ConceptCode": "32580"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1323091+00:00",
+      "Price": {
+        "BasicCataloguePrice": 649.00000,
+        "CurrentPrice": 649.00000
+      },
+      "ConceptCode": "33709"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1333397+00:00",
+      "Price": {
+        "BasicCataloguePrice": 499.00000,
+        "CurrentPrice": 399.00000
+      },
+      "ConceptCode": "33727"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1333397+00:00",
+      "Price": {
+        "BasicCataloguePrice": 629.00000,
+        "CurrentPrice": 629.00000
+      },
+      "ConceptCode": "33958"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1343079+00:00",
+      "Price": {
+        "BasicCataloguePrice": 209.00000,
+        "CurrentPrice": 209.00000
+      },
+      "ConceptCode": "32176"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.135308+00:00",
+      "Price": {
+        "BasicCataloguePrice": 679.00000,
+        "CurrentPrice": 679.00000
+      },
+      "ConceptCode": "33364"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1363079+00:00",
+      "Price": {
+        "BasicCataloguePrice": 249.00000,
+        "CurrentPrice": 189.00000
+      },
+      "ConceptCode": "32004"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1363079+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1000.00000,
+        "CurrentPrice": 1000.00000
+      },
+      "ConceptCode": "33198"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.137308+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2399.00000,
+        "CurrentPrice": 2399.00000
+      },
+      "ConceptCode": "32150"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.137308+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1649.00000,
+        "CurrentPrice": 1649.00000
+      },
+      "ConceptCode": "30059"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1383074+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2100.00000,
+        "CurrentPrice": 2100.00000
+      },
+      "ConceptCode": "33200"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1383074+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1549.00000,
+        "CurrentPrice": 1549.00000
+      },
+      "ConceptCode": "33168"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1393081+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1700.00000,
+        "CurrentPrice": 1700.00000
+      },
+      "ConceptCode": "33201"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1393081+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2399.00000,
+        "CurrentPrice": 2399.00000
+      },
+      "ConceptCode": "30173"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1403082+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1200.00000,
+        "CurrentPrice": 1200.00000
+      },
+      "ConceptCode": "33199"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1403082+00:00",
+      "Price": {
+        "BasicCataloguePrice": 629.00000,
+        "CurrentPrice": 629.00000
+      },
+      "ConceptCode": "34441"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1413082+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1649.00000,
+        "CurrentPrice": 1649.00000
+      },
+      "ConceptCode": "30058"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1413082+00:00",
+      "Price": {
+        "BasicCataloguePrice": 429.00000,
+        "CurrentPrice": 429.00000
+      },
+      "ConceptCode": "32138"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1423079+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1799.00000,
+        "CurrentPrice": 1799.00000
+      },
+      "ConceptCode": "8150"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1423079+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1649.00000,
+        "CurrentPrice": 1149.00000
+      },
+      "ConceptCode": "34334"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1423079+00:00",
+      "Price": {
+        "BasicCataloguePrice": 899.00000,
+        "CurrentPrice": 899.00000
+      },
+      "ConceptCode": "32576"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1433071+00:00",
+      "Price": {
+        "BasicCataloguePrice": 2499.00000,
+        "CurrentPrice": 1999.00000
+      },
+      "ConceptCode": "32155"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1443079+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1299.00000,
+        "CurrentPrice": 1299.00000
+      },
+      "ConceptCode": "31802"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1453074+00:00",
+      "Price": {
+        "BasicCataloguePrice": 829.00000,
+        "CurrentPrice": 829.00000
+      },
+      "ConceptCode": "30445"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1453074+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1399.00000,
+        "CurrentPrice": 1399.00000
+      },
+      "ConceptCode": "31808"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1463075+00:00",
+      "Price": {
+        "BasicCataloguePrice": 999.00000,
+        "CurrentPrice": 999.00000
+      },
+      "ConceptCode": "33800"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1473075+00:00",
+      "Price": {
+        "BasicCataloguePrice": 1399.00000,
+        "CurrentPrice": 1399.00000
+      },
+      "ConceptCode": "32081"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1483074+00:00",
+      "Price": {
+        "BasicCataloguePrice": 979.00000,
+        "CurrentPrice": 735.00000
+      },
+      "ConceptCode": "31158"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1483074+00:00",
+      "Price": {
+        "BasicCataloguePrice": 599.00000,
+        "CurrentPrice": 599.00000
+      },
+      "ConceptCode": "33692"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.149307+00:00",
+      "Price": {
+        "BasicCataloguePrice": 549.00000,
+        "CurrentPrice": 549.00000
+      },
+      "ConceptCode": "33697"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.149307+00:00",
+      "Price": {
+        "BasicCataloguePrice": 599.00000,
+        "CurrentPrice": 599.00000
+      },
+      "ConceptCode": "33670"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1513061+00:00",
+      "Price": {
+        "BasicCataloguePrice": 799.00000,
+        "CurrentPrice": 479.00000
+      },
+      "ConceptCode": "35155"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1523192+00:00",
+      "Price": {
+        "BasicCataloguePrice": 449.00000,
+        "CurrentPrice": 449.00000
+      },
+      "ConceptCode": "30615"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1533179+00:00",
+      "Price": {
+        "BasicCataloguePrice": 329.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "31433"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1543074+00:00",
+      "Price": {
+        "BasicCataloguePrice": 349.00000,
+        "CurrentPrice": 299.00000
+      },
+      "ConceptCode": "31442"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1553067+00:00",
+      "Price": {
+        "BasicCataloguePrice": 449.00000,
+        "CurrentPrice": 199.00000
+      },
+      "ConceptCode": "31557"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1553067+00:00",
+      "Price": {
+        "BasicCataloguePrice": 449.00000,
+        "CurrentPrice": 335.00000
+      },
+      "ConceptCode": "33706"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.156307+00:00",
+      "Price": {
+        "BasicCataloguePrice": 329.00000,
+        "CurrentPrice": 229.00000
+      },
+      "ConceptCode": "32291"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.156307+00:00",
+      "Price": {
+        "BasicCataloguePrice": 579.00000,
+        "CurrentPrice": 579.00000
+      },
+      "ConceptCode": "31586"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.157313+00:00",
+      "Price": {
+        "BasicCataloguePrice": 579.00000,
+        "CurrentPrice": 579.00000
+      },
+      "ConceptCode": "31473"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.157313+00:00",
+      "Price": {
+        "BasicCataloguePrice": 579.00000,
+        "CurrentPrice": 579.00000
+      },
+      "ConceptCode": "33004"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1583063+00:00",
+      "Price": {
+        "BasicCataloguePrice": 779.00000,
+        "CurrentPrice": 545.00000
+      },
+      "ConceptCode": "30612"
+    },
+    {
+      "Currency": "INR",
+      "DateCalculated": "2019-05-25T12:27:02.1603064+00:00",
+      "Price": {
+        "BasicCataloguePrice": 0.00000,
+        "CurrentPrice": 0.00000
+      },
+      "ConceptCode": "31944"
+    }
+  ]
+}
