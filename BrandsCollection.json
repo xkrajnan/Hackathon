@@ -1,0 +1,1996 @@
+{
+  "BrandsCollection": [
+    {
+      "BrandId": "96be9d36-785f-4857-9f20-04cbadd1b3db",
+      "Name": "Mirage",
+      "OriginalName": "mirage",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "709da310-bdb5-408a-a9d7-1a71e26c29c5",
+      "Name": "Love Potion",
+      "OriginalName": "love-potion",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "853dea1f-9f6f-4a3b-91c2-0a69cde0784b",
+      "Name": "Tender Care",
+      "OriginalName": "tender-care",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "ddcee09e-3884-4b85-b3b6-04d5138c6c3a",
+      "Name": "Amazonia",
+      "OriginalName": "amazonia",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "56fb26f1-d145-450d-9ff5-0ac39868692d",
+      "Name": "Be the Legend",
+      "OriginalName": "be-the-legend",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "ad6a338a-2bf4-42ae-818e-0715c2f80c1a",
+      "Name": "Urban Lovers",
+      "OriginalName": "urban-lovers",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "82247e6a-e6ed-4d3c-85f7-09aad8a77b4d",
+      "Name": "Colourbox",
+      "OriginalName": "colourbox",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "f154a076-6826-415f-881e-0e1921614fe7",
+      "Name": "Neo Chic",
+      "OriginalName": "neo-chic",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "306a0ad8-a5ef-488f-b329-1fc473d39cd9",
+      "Name": "Men's Collection",
+      "OriginalName": "mens-collection",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "292b2592-731c-4460-9a3a-0da44f488f0a",
+      "Name": "memories",
+      "OriginalName": "memories",
+      "SubBrands": [
+        {
+          "BrandId": "c496b1a0-55bc-49c2-8aa4-182f7528fc7b",
+          "Name": "Chasing Butterflies",
+          "OriginalName": "chasing-butterflies",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "302f0c5f-0192-4994-9f5b-29afa63e5115",
+          "Name": "Daydreaming In A Hammock",
+          "OriginalName": "daydreaming-in-a-hammock",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "b9358ff3-cf27-47c7-95b9-1b0bcc0d206d",
+          "Name": "Flirting Under Fireworks",
+          "OriginalName": "flirting-under-fireworks",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "4ee11424-4dd3-4538-b0d4-18228e338211",
+      "Name": "Perfect Body",
+      "OriginalName": "perfect-body",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "83fa4a08-89d9-4ed6-9583-2d7a646a056d",
+      "Name": "Silk Beauty",
+      "OriginalName": "silk-beauty",
+      "SubBrands": [
+        {
+          "BrandId": "096e0851-734e-4dad-81ea-aa4f555d0e15",
+          "Name": "Silk Beauty",
+          "OriginalName": "silk-beauty",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "1dc29856-40c4-47c2-bbf8-4bba22545cb7",
+          "Name": "Silk Beauty for Sensitive Skin",
+          "OriginalName": "sensitive-skin",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "ccfed774-f5e0-46a1-aecd-622d8c9e6a8b",
+          "Name": "Silk Beauty for Smooth Skin",
+          "OriginalName": "smooth-skin",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "1b4b1d86-9605-4e1c-adb7-93657a1eae59",
+          "Name": "Silk Beauty Luxury Velvet",
+          "OriginalName": "luxury-velvet",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "20b4ee4d-760f-4e5e-a4ca-36dd03ac32f0",
+      "Name": "Muse",
+      "OriginalName": "muse",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "948f9c25-e863-4d3d-b5c4-19824d9aeb80",
+      "Name": "Rival",
+      "OriginalName": "rival",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "b5f638d6-3437-4549-adef-1b1e9b0e6d72",
+      "Name": "Giordani Gold",
+      "OriginalName": "giordani-gold",
+      "SubBrands": [
+        {
+          "BrandId": "5954a504-79c2-4222-8278-b56186cd0b46",
+          "Name": "Giordani Gold Iconic",
+          "OriginalName": "iconic",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "5a5971f7-f1d2-4270-bdc0-da97a590ee2f",
+          "Name": "Giordani Gold Invisible Touch",
+          "OriginalName": "invisible-touch",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "ab220320-8edd-432d-8b5a-a8d39d40be89",
+          "Name": "Giordani Gold Age Defying",
+          "OriginalName": "age-defying",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "0952f540-6b1c-4cfa-b381-990df3566deb",
+          "Name": "Giordani Gold Adaptive",
+          "OriginalName": "adaptive",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "09098ee5-fae0-47fb-ab91-618334cd24cd",
+          "Name": "Giordani White Gold",
+          "OriginalName": "white-gold",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "2e614829-8cf2-47a9-acc0-1cea9fc7f4f5",
+      "Name": "Northern Lights",
+      "OriginalName": "northern-lights",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "cb982501-5653-4407-b074-3fd29ada4933",
+      "Name": "By Marcel",
+      "OriginalName": "by-marcel",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "496e010a-3d32-4f76-a9d3-22f747b4c4c1",
+      "Name": "Signature",
+      "OriginalName": "signature",
+      "SubBrands": [
+        {
+          "BrandId": "912d2946-40de-4786-ae55-c8f2fbbb36ab",
+          "Name": "Signature",
+          "OriginalName": "signature",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "f6445117-ca4f-4dbb-984e-3be6a0bcf00f",
+          "Name": "Signature Heritage",
+          "OriginalName": "heritage",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "5276c3a6-0524-4835-aa94-22f601a68e16",
+      "Name": "Musk",
+      "OriginalName": "musk",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "22453f50-da26-42f8-a683-4c3da087268b",
+      "Name": "Tycoon",
+      "OriginalName": "tycoon",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "f295a7ae-afef-4c72-bebd-2268f28905d2",
+      "Name": "Christmas Wish",
+      "OriginalName": "christmas-wish",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "cf30bac5-b21d-435b-bc2c-3e836dfd39f9",
+      "Name": "Pure Skin",
+      "OriginalName": "pure-skin",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "9e83724a-be07-43fa-941c-269b9e642985",
+      "Name": "Discover",
+      "OriginalName": "discover",
+      "SubBrands": [
+        {
+          "BrandId": "2d5c247a-dea6-4b1a-83df-808cb7d17f6c",
+          "Name": "Discover Bali",
+          "OriginalName": "bali",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "b43ba24f-9017-4b08-9adb-0c5a9cead4e8",
+          "Name": "Discover Borneo",
+          "OriginalName": "borneo",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "a7599105-a0fe-4d07-b87b-f70e73977a5f",
+          "Name": "Discover Brazil",
+          "OriginalName": "brazil",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "6b23fad1-8541-4d19-97ed-3b8ed743d5a3",
+          "Name": "Discover China",
+          "OriginalName": "china",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "4bf1eb3f-f1c8-470d-a07f-de3a9c81f685",
+          "Name": "Discover Colombia",
+          "OriginalName": "colombia",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "4983a500-5d2c-4f0a-8818-247cb30d8050",
+          "Name": "Discover Hawaii",
+          "OriginalName": "hawaii",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "26bcbe16-d2d9-4cd6-a490-3e9eb4651b1e",
+          "Name": "Discover Iceland",
+          "OriginalName": "iceland",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "7d3fa8bd-55c9-49f4-ba69-203518570c5c",
+          "Name": "Discover Japan",
+          "OriginalName": "japan",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "b77e2f6b-5454-462b-85a0-d010f1fe3c30",
+          "Name": "Discover Kenya",
+          "OriginalName": "kenya",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "9dd9a41e-ca1d-4241-8c3f-e7d5da95b869",
+          "Name": "Discover Marrakech",
+          "OriginalName": "marrakech",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "61a15404-f09e-4d21-817d-9dbcb831164b",
+          "Name": "Discover Mexico",
+          "OriginalName": "mexico",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "35eb3269-1b65-4f93-b6b6-396b13012f7e",
+          "Name": "Discover Miami",
+          "OriginalName": "miami",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "ea50bfca-8962-4ee1-8610-e75e65ac1ef7",
+          "Name": "Discover Paris",
+          "OriginalName": "paris",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "2f2c06c1-65b7-412c-9619-4460b267ecd4",
+          "Name": "Discover Phuket",
+          "OriginalName": "phuket",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "9c77df48-9d1b-4a43-80c6-2f3780d7977d",
+          "Name": "Discover Santorini",
+          "OriginalName": "santorini",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "79f91759-a1ff-4e5b-8df0-9484d747cb64",
+          "Name": "Discover Scandinavia",
+          "OriginalName": "scandinavia",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "e7641641-f652-43fd-b4d8-9035e61e6872",
+          "Name": "Discover Seville",
+          "OriginalName": "seville",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "f1d64905-ef01-4795-9d23-9cf47a7bcb73",
+          "Name": "Discover Sicily",
+          "OriginalName": "sicily",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "6f239962-4652-4a89-b4fa-e80daa132d9e",
+          "Name": "Discover Taj Mahal",
+          "OriginalName": "taj-mahal",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "f5e78a16-54d9-4e62-a768-8537954517dc",
+          "Name": "Discover Tuscany",
+          "OriginalName": "tuscany",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "0a7e4853-2e22-4193-93fd-4fac44361cfb",
+      "Name": "S8",
+      "OriginalName": "s8",
+      "SubBrands": [
+        {
+          "BrandId": "0a8f7741-946f-4137-8582-87bddaae4b8d",
+          "Name": "S8",
+          "OriginalName": "s8",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "123cc75c-682b-4820-996e-aeab1455c83c",
+          "Name": "S8 Icon",
+          "OriginalName": "icon",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "18af2d44-536b-46fa-a70c-75f11c04027e",
+          "Name": "S8 Night",
+          "OriginalName": "night",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "e8def635-b64a-4b58-8c49-237b3d171064",
+      "Name": "Lucia",
+      "OriginalName": "lucia",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "281d3850-c475-4234-86a7-610403878c68",
+      "Name": "Very Me",
+      "OriginalName": "very-me",
+      "SubBrands": [
+        {
+          "BrandId": "ba8c08a4-25ee-44d6-8bb5-347b555170ed",
+          "Name": "Very Me",
+          "OriginalName": "very-me",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "5910ce2c-1258-4686-80b3-3c6def01bcc3",
+          "Name": "Very Me Stockholm",
+          "OriginalName": "stockholm",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "92799eb9-7a09-4372-a239-fb618433680c",
+          "Name": "VeryMe New York",
+          "OriginalName": "new-york",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "91a7e3f0-588f-446b-882b-ac71e94fddfb",
+          "Name": "VeryMe Spring Tenderness",
+          "OriginalName": "spring-tenderness",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "d0dbef24-2d1a-4045-8134-4016eb798c7a",
+      "Name": "Eclat",
+      "OriginalName": "eclat",
+      "SubBrands": [
+        {
+          "BrandId": "c889edc9-34d0-4b40-af58-ebb1cee0e12b",
+          "Name": "Eclat Femme",
+          "OriginalName": "femme",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "df8bef07-520e-472d-8918-f72c2b10e3f9",
+          "Name": "Eclat Weekend",
+          "OriginalName": "weekend",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "cd5ef084-9358-4db5-9e5b-4ef3038e0b21",
+          "Name": "Eclat Homme",
+          "OriginalName": "homme",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "273cd572-e234-480c-b69a-bf6c9ddeaf61",
+          "Name": "Eclat Sport",
+          "OriginalName": "sport",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "bfc7c6a9-0670-4b3d-ac1f-15de1acd4170",
+          "Name": "Eclat Couple",
+          "OriginalName": "couple",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "ca2a9827-0d28-4de8-bb78-0ad60e8c2886",
+          "Name": "Eclat Mademoiselle",
+          "OriginalName": "mademoiselle",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "49b293d5-91a6-4008-b559-1ca674c4ef44",
+          "Name": "Eclat Lui",
+          "OriginalName": "lui",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "08d6e3ba-5d63-48d9-a151-2b1344c86bbb",
+      "Name": "Volare",
+      "OriginalName": "volare",
+      "SubBrands": [
+        {
+          "BrandId": "8e419bff-0f77-4f3c-a313-00d62a1a4dbe",
+          "Name": "Volare",
+          "OriginalName": "volare",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "abfe642a-5cfe-4d3f-ac19-8f37a4912db4",
+          "Name": "Volare Gold",
+          "OriginalName": "volare-gold",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "6e623a49-c8fe-4185-91e3-4add0a2ef9df",
+      "Name": "Baby",
+      "OriginalName": "baby",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "e5d9b3fc-1de3-4df5-bebe-2aceb8dc8469",
+      "Name": "Air, Ice, Fire",
+      "OriginalName": "air-ice-fire",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "9edaffc4-2413-4610-929d-342bcc0bee4d",
+      "Name": "Midnight Pearl",
+      "OriginalName": "midnight-pearl",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "c581335a-957e-4033-a624-5317167091b3",
+      "Name": "Getaway",
+      "OriginalName": "getaway",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "a2016825-6640-47c6-91ce-76d3029d1a17",
+      "Name": "Precious Moments",
+      "OriginalName": "precious-moments",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "5094a5cd-f857-4517-b704-29d951df1ffe",
+      "Name": "winter-edit-2018",
+      "OriginalName": "winter-edit-2018",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "6370ea52-2edd-4714-8bfa-41a57303b792",
+      "Name": "Avebury",
+      "OriginalName": "avebury",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "2164b506-24d5-4069-b8d0-2bf60ffe6ed4",
+      "Name": "venture",
+      "OriginalName": "venture",
+      "SubBrands": [
+        {
+          "BrandId": "a89ce411-86dc-4d46-b07d-b7eb4ac766cb",
+          "Name": "Venture Beyond",
+          "OriginalName": "beyond",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "9a1394e5-c0cd-4d07-aac2-dc41cb1bb76e",
+          "Name": "Venture",
+          "OriginalName": "venture",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "9b663449-2d80-402f-8da6-773ac1eb2df0",
+      "Name": "Feet Up",
+      "OriginalName": "feet-up",
+      "SubBrands": [
+        {
+          "BrandId": "168cc51b-88d2-4fb2-9206-1a921338895d",
+          "Name": "Feet Up",
+          "OriginalName": "feet-up",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "ade7eb04-de78-4c51-900b-91d62ce10e67",
+          "Name": "Feet Up Advanced",
+          "OriginalName": "advanced",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "4920361c-e671-41ae-a28f-58fbed9a36d6",
+          "Name": "Feet Up Arctic Scandinavia",
+          "OriginalName": "arctic-scandinavia",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "d58d58b8-6d14-402d-b5c2-5433a26d15f5",
+          "Name": "Feet Up Aromatic Summer",
+          "OriginalName": "aromatic-summer",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "e8628f62-8b7d-492d-9b99-7b03f133dfba",
+          "Name": "Comfort",
+          "OriginalName": "comfort",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "3939b255-1370-4ea9-984d-325531767bd6",
+          "Name": "Feet Up Fresh Berries",
+          "OriginalName": "fresh-berries",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "d620bd38-ac77-4a11-9ee5-39cf7a564b30",
+          "Name": "Feet Up Fresh Glow",
+          "OriginalName": "fresh-glow",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "fb2d5e94-a2a1-4633-a432-54efde36cb3b",
+          "Name": "Feet Up Summer Bliss",
+          "OriginalName": "summer-bliss",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "759aa9f5-177d-4994-a782-dd158453bacf",
+          "Name": "Feet Up Winter Treat",
+          "OriginalName": "winter-treat",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "488bf76b-4eba-48da-ad61-719158070644",
+          "Name": "Feet Up Winter Berries",
+          "OriginalName": "winter-berries",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "6d3b5e6e-5cd8-481e-a0f7-63a35765ff3f",
+      "Name": "Nature Secrets",
+      "OriginalName": "nature-secrets",
+      "SubBrands": [
+        {
+          "BrandId": "d931df60-8216-4b99-8d7a-9804e96e98f9",
+          "Name": "Nature Secrets Almond Oil & Strawberry",
+          "OriginalName": "almond-oil-strawberry",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "8d13e7f4-587f-4069-9d30-c5b571bed69b",
+          "Name": "Kiwi",
+          "OriginalName": "kiwi",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "5c945f8e-32e5-4ce2-932e-b6869ffbc7fe",
+          "Name": "Nature Secrets Aloe Vera & Watermelon",
+          "OriginalName": "aloe-vera-watermelon",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "3e4017d7-7590-48eb-8ca2-3167f5fd4a6c",
+          "Name": "Apricot & Rice Milk",
+          "OriginalName": "apricot-rice-milk",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "9348faf3-fbfa-457d-8289-878727fe273c",
+          "Name": "Nature Secrets Basil & Peach",
+          "OriginalName": "basil-peach",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "7a9afa87-e826-46a9-a519-02e7b3d0a110",
+          "Name": "Nature Secrets Burdock & Grapefruit",
+          "OriginalName": "burdock-grapefruit",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "41f41575-6598-4c91-8217-55581e77fba9",
+          "Name": "Nature Secrets Elderflower & Apple",
+          "OriginalName": "elderflower-apple",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "c8ca8380-fc3e-4fed-932f-7a275b1a79bb",
+          "Name": "Nature Secrets Ginseng & Passion Fruit",
+          "OriginalName": "ginseng-passion-fruit",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "688e364d-cbf2-4ce4-bd8d-cb9606b72001",
+          "Name": "Nature Secrets Jojoba & Mango",
+          "OriginalName": "jojoba-mango",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "3a68e0ac-61d5-4434-b03d-f93b1c982cdf",
+          "Name": "Nature Secrets Lavender & Fig",
+          "OriginalName": "lavender-fig",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "075bcb11-d8a7-4be1-bb3b-2edd38df3ee3",
+          "Name": "Nature Secrets Mint & Raspberry",
+          "OriginalName": "mint-raspberry",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "f3c0ea39-f3b8-48cb-9834-3de19b8be721",
+          "Name": "Nature Secrets Nettle & Lemon",
+          "OriginalName": "nettle-lemon",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "15047675-3ebb-471c-8d89-a9cad9a0738a",
+          "Name": "Nature Secrets Rosemary & Blackcurrant",
+          "OriginalName": "rosemary-blackcurrant",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "7b453453-b851-42c5-85db-7129cd627468",
+          "Name": "Nature Secrets Sunflower & Blueberry",
+          "OriginalName": "sunflower-blueberry",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "2999c76e-3f2e-47a7-aecd-bf94614954b5",
+          "Name": "Nature Secrets Tea Tree & Mandarin",
+          "OriginalName": "tea-tree-mandarin",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "a49af349-a57c-4320-a389-31fafddfc538",
+          "Name": "Nature Secrets Vanilla & Pomegranate",
+          "OriginalName": "vanilla-pomegranate",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "e75e43ba-1fbd-40e2-99c4-5759faef61b9",
+          "Name": "Nature Secrets Wheat & Coconut",
+          "OriginalName": "wheat-coconut",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "9c709cee-7a27-4bb2-a9c4-b222ecec20c0",
+          "Name": "Nature Secrets Talcs",
+          "OriginalName": "talcs",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "705b193d-487d-4243-8ee2-48621b1deef8",
+      "Name": "Enigma",
+      "OriginalName": "enigma",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "b231b666-73e4-4de6-852e-7b18955961a2",
+      "Name": "Soul",
+      "OriginalName": "soul",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "c33210f7-aacd-4f1d-afc9-31906c81f123",
+      "Name": "De Marco",
+      "OriginalName": "de-marco",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "4bba725d-aee6-447c-851d-661af227f8eb",
+      "Name": "HairX",
+      "OriginalName": "hair-x",
+      "SubBrands": [
+        {
+          "BrandId": "460a3f0c-ff95-4b61-a637-3f434711da02",
+          "Name": "Advanced NeoForce",
+          "OriginalName": "advanced-neoforce",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "ee3591c0-6edf-4b6a-947c-b7c5a83fd424",
+          "Name": "HairX Colour Protect",
+          "OriginalName": "colour-protect",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "60528dd4-b62b-47b7-bda8-1d3788cadb37",
+          "Name": "HairX Dandruff Rescue",
+          "OriginalName": "dandruff-rescue",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "caee6181-c7f9-429c-919c-f2e29c3f0806",
+          "Name": "HairX Growth Reviver",
+          "OriginalName": "growth-reviver",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "49648ed7-ada2-45ed-bb01-8f658ef9605b",
+          "Name": "HairX Pure Balance",
+          "OriginalName": "pure-balance",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "002d1a0c-b021-4da7-ba68-7b72265f562d",
+          "Name": "HairX Restore Therapy",
+          "OriginalName": "restore-therapy",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "c5a6c178-5530-4c5d-910c-728d7bafe5d0",
+          "Name": "HairX Shine Boost",
+          "OriginalName": "shine-boost",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "ad1421c4-accc-4b32-90fc-9808b7c91c5c",
+          "Name": "HairX Shine Reviver",
+          "OriginalName": "shine-reviver",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "53938485-8f0c-4c82-ac4f-bbfa55ed89f0",
+          "Name": "HairX Smooth Control",
+          "OriginalName": "smooth-control",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "f1d68f3b-adde-4708-aea6-f2b12f2a51fa",
+          "Name": "HairX Strength Fortifier",
+          "OriginalName": "strength-fortifier",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "864cc85c-494c-4fb4-b751-1e67adf215b4",
+          "Name": "HairX Styling",
+          "OriginalName": "styling",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "433c649b-4653-4ba4-b834-24c7273b2552",
+          "Name": "HairX TruColour",
+          "OriginalName": "trucolour",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "32e846bc-0dc7-4cc0-9fe5-17a765648313",
+          "Name": "HairX Ultimate Repair",
+          "OriginalName": "ultimate-repair",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "93ec9b9c-6d79-4d1d-ad3f-845a570cca75",
+          "Name": "HairX Volume Boost",
+          "OriginalName": "volume-boost",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "4501037a-6083-4e1a-9413-fb503b2c2bf0",
+          "Name": "HairX Winter Care",
+          "OriginalName": "winter-care",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "6df15c92-d186-4653-b170-824c5841d502",
+      "Name": "",
+      "OriginalName": "novage-ultimate-lift",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "72dcaf28-c6cd-49fe-9cae-4b3d5d404801",
+      "Name": "London",
+      "OriginalName": "london",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "8021f91d-cebe-4022-93d4-66377c1b10aa",
+      "Name": "Felicity",
+      "OriginalName": "felicity",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "fb24e624-da3b-4914-af4d-860ff0fea9ca",
+      "Name": "Smarty Susie",
+      "OriginalName": "smarty-susie",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "359e1535-aa07-490d-ad0e-82554c127ab8",
+      "Name": "Ultimate",
+      "OriginalName": "ultimate",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "934389c9-3f6a-4965-8912-700fee055100",
+      "Name": "Fresh & Nature",
+      "OriginalName": "fresh-nature",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "aacff1f5-f92f-43f8-a053-356102e747f0",
+      "Name": "Glacier",
+      "OriginalName": "glacier",
+      "SubBrands": [
+        {
+          "BrandId": "6a9d8ca5-fb43-4013-82ba-81f1e8f29b2d",
+          "Name": "Glacier",
+          "OriginalName": "glacier",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "d41fc0c2-7dc8-415b-98c6-c64542b2706a",
+          "Name": "Glacier Ice",
+          "OriginalName": "ice",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "ef7f632d-c9e9-48d0-a38e-c9e0d4139c36",
+          "Name": "Glacier Rock",
+          "OriginalName": "rock",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "f560acf6-e094-41cf-bfcb-588a54c57988",
+          "Name": "Glacier Athletic",
+          "OriginalName": "athletic",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "b7d9b3ea-0c7f-4f96-9a09-929d9390f822",
+      "Name": "Power Woman",
+      "OriginalName": "power-woman",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "9ca0d530-b613-4f41-b82c-86b06d78b285",
+      "Name": "Cocktails & the City",
+      "OriginalName": "cocktails",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "bdb0c2f3-93d7-4bbc-94ad-70dcae121645",
+      "Name": "Let It Snow",
+      "OriginalName": "let-it-snow",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "466f513f-a5cf-4ad1-abf7-4dadc4029302",
+      "Name": "My Red",
+      "OriginalName": "my-red",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "acae0f51-1c43-4c5d-8254-97a279c7c9e6",
+      "Name": "Manful",
+      "OriginalName": "manful",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "39e65804-6d47-4a5a-b679-86c8ed4e5461",
+      "Name": "Aqua-Rhythm",
+      "OriginalName": "aqua-rhythm",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "1808547a-b2df-4c43-a569-760052b17348",
+      "Name": "Ecobeauty",
+      "OriginalName": "ecobeauty",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "12c60a4e-7526-4205-afcd-3c102c185586",
+      "Name": "Swedish Spa",
+      "OriginalName": "swedish-spa",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "f1d7aec3-6b64-406f-af52-98320707094c",
+      "Name": "True Instinct",
+      "OriginalName": "true-instinct",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "be0850cf-66c4-44ac-ad38-4f4dfa1ecffe",
+      "Name": "",
+      "OriginalName": "novage-bright-sublime",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "2ed6013d-852e-4f3a-abfa-9244c889ab7e",
+      "Name": "Sun Moon Eclipse",
+      "OriginalName": "sun-moon-eclipse",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "eac5e02c-e5e0-45ce-ab17-81ba4b107c0e",
+      "Name": "Fuse",
+      "OriginalName": "fuse",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "94674099-d439-4836-910e-a63a32945b8f",
+      "Name": "Delicacy",
+      "OriginalName": "delicacy",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "638af0b8-8dda-43f8-bca1-3f893b6d0487",
+      "Name": "Embrace",
+      "OriginalName": "embrace",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "2fe77276-f697-49c7-a6bb-a64a388fc6e2",
+      "Name": "Ultra Glam",
+      "OriginalName": "ultra-glam",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "aa1e8102-ef31-4acd-be91-523361f5fef4",
+      "Name": "Happy Skin",
+      "OriginalName": "happy-skin",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "f78d08e3-bec9-4536-8f3a-87c25d0797d6",
+      "Name": "Mattel",
+      "OriginalName": "mattel",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "ce6b20c3-10cb-4dc8-931d-a2acd6947f8f",
+      "Name": "Chocolate Dream",
+      "OriginalName": "chocolate-dream",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "822836d2-1724-4f4a-98a3-8ff7c9eb10c0",
+      "Name": "Kick Off",
+      "OriginalName": "kick-off",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "0f2f54c3-0191-419d-a7f1-a960b85821a8",
+      "Name": "SoftCaress",
+      "OriginalName": "softcaress",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "648fac96-931d-4e32-9250-4b22102d64cc",
+      "Name": "Optifresh",
+      "OriginalName": "optifresh",
+      "SubBrands": [
+        {
+          "BrandId": "099f5bce-afa5-48c2-ab61-9e1135cc03ce",
+          "Name": "Optifresh",
+          "OriginalName": "optifresh",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "9bfbafad-cc82-4f85-8aa3-8934968fd4e7",
+          "Name": "Optifresh Multi-Action",
+          "OriginalName": "multi-action",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "82fb6e51-a491-44dc-aee3-7f75512252fa",
+          "Name": "Optifresh Kids",
+          "OriginalName": "kids",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "13d5faba-274f-4b85-898e-eb404f0767a8",
+          "Name": "Optifresh Herbal",
+          "OriginalName": "herbal",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "c5b30e7c-d165-47dc-b3cf-53cd25ecb987",
+      "Name": "Love is in the Air",
+      "OriginalName": "love-is-in-the-air",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "e4e7be62-28c0-4b32-bde6-9feeaedd0b2c",
+      "Name": "My Naked Truth",
+      "OriginalName": "my-naked-truth",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "7b364d57-1bcf-4a14-9125-bb231e87e8b0",
+      "Name": "Aimi",
+      "OriginalName": "aimi",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "df010b5b-a906-4ebe-8d8f-a1e0a9e580f7",
+      "Name": "Dancing Lady",
+      "OriginalName": "dancing-lady",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "804ec8fc-6d22-4a9d-924e-b065101e67b7",
+      "Name": "NovAge",
+      "OriginalName": "novage",
+      "SubBrands": [
+        {
+          "BrandId": "717e135f-4bdb-4879-b177-37caf5d90f91",
+          "Name": "NovAge Ecollagen",
+          "OriginalName": "ecollagen",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "252931b6-e66b-478a-b992-5856abda513d",
+          "Name": "NOVAGE ULTIMATE LIFT",
+          "OriginalName": "ultimate-lift",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "ea20d167-8297-42ac-a632-542f08040094",
+          "Name": "NovAge Bright Sublime",
+          "OriginalName": "bright-sublime",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "368bca15-c5ee-4301-a33b-41bb94fda1e2",
+          "Name": "men",
+          "OriginalName": "men",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "a1b795bb-d2d8-49b4-8b1e-5cd0c0a7711d",
+      "Name": "Wonderful",
+      "OriginalName": "wonderful",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "60551a08-52a1-4740-9e42-bcd239b39199",
+      "Name": "my-destiny",
+      "OriginalName": "my-destiny",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "52760934-0857-466a-bc55-57f857b5e5a6",
+      "Name": "Radiant Lights",
+      "OriginalName": "radiant-lights",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "53ef6b24-5f38-4154-b577-cd4e1fa01c0c",
+      "Name": "Paradise",
+      "OriginalName": "paradise",
+      "SubBrands": [
+        {
+          "BrandId": "a222ea23-9690-4e8e-9667-f0c9edc154d2",
+          "Name": "Amazing Paradise",
+          "OriginalName": "amazing",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "1fca0b02-4999-4398-bc3e-a7c36070eab5",
+      "Name": "Diamond Cellular",
+      "OriginalName": "diamond-cellular",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "0a2e3b47-bfc1-46d8-8e92-beb2b3a5fbec",
+      "Name": "Deep Impact",
+      "OriginalName": "deep-impact",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "a4e88948-ee14-4aa2-8626-de3e8799a3b0",
+      "Name": "Lovely Betty",
+      "OriginalName": "lovely-betty",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "5f1efc5d-2c2f-4ed3-a0a8-5d77e2028af3",
+      "Name": "I.D.",
+      "OriginalName": "id",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "f33a86f3-24d9-427c-9a8e-ad2d7f0d1a46",
+      "Name": "Preppy Chic",
+      "OriginalName": "preppy-chic",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "79cedb6c-ef2b-46af-be47-c644742b0437",
+      "Name": "More by Demi",
+      "OriginalName": "more-by-demi",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "856f7930-4c4c-496b-9bc9-dff1770ed41f",
+      "Name": "Ecollagen",
+      "OriginalName": "ecollagen",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "b4bca70e-4d91-49a0-8bfd-c7f841cdc81e",
+      "Name": "Grace",
+      "OriginalName": "grace",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "fa123410-85b9-49a4-846e-f7beec49c781",
+      "Name": "Sun Zone",
+      "OriginalName": "sun-zone",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "10af4e4d-69f2-45bd-9fe7-b328f246df88",
+      "Name": "Native Force",
+      "OriginalName": "native-force",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "66ffbb54-279c-4ae9-acd9-c973ed7b01b6",
+      "Name": "Infinite Rush",
+      "OriginalName": "infinite-rush",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "0edcae38-0e2e-4c6c-b4f0-b5e2117a7c42",
+      "Name": "Royal Velvet",
+      "OriginalName": "royal-velvet",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "7a4d76a6-6c73-4ba3-a1fd-6a6536865231",
+      "Name": "Fairy City Lights",
+      "OriginalName": "fairy-city-lights",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "89c271fd-c7b4-4e65-a150-bab1fa62d83f",
+      "Name": "So Fever",
+      "OriginalName": "so-fever",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "b0a262f4-0e9e-43a5-96ea-d24bbdd2e6e0",
+      "Name": "The ONE",
+      "OriginalName": "the-one",
+      "SubBrands": [
+        {
+          "BrandId": "e1230e24-e0e6-47b4-b94e-e2c89f0d8eeb",
+          "Name": "fragrances",
+          "OriginalName": "fragrances",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "6438e752-87f2-4eb2-881b-68c647a6173f",
+          "Name": "The ONE Everyday Beauty",
+          "OriginalName": "everyday-beauty",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "84efdb89-05bd-4f34-ab1c-41d2f38f4689",
+          "Name": "The ONE High Impact",
+          "OriginalName": "high-impact",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "cdd54512-3ba3-43a3-a8f7-ef539558d754",
+          "Name": "Long Wear",
+          "OriginalName": "long-wear",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "ed72eb88-a65d-44ee-af1d-a8ced5a87a0b",
+          "Name": "The ONE Care",
+          "OriginalName": "care",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "4a505321-2e5a-45b8-89e2-c226d3da3b05",
+      "Name": "Victory",
+      "OriginalName": "victory",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "25c99e7b-2161-4feb-bc2d-61ef965d4136",
+      "Name": "",
+      "OriginalName": "delight",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "ee3624aa-2212-4d02-90a9-c4241ba0b436",
+      "Name": "Amber Elixir",
+      "OriginalName": "amber-elixir",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "6ef32e52-0411-4373-b6c4-dd40cc15cd17",
+      "Name": "Oriflame Beauty",
+      "OriginalName": "oriflame-beauty",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "92038b47-e09d-4f13-848e-d351e528cda4",
+      "Name": "Bioclinic",
+      "OriginalName": "bioclinic",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "c97ef79e-4488-4042-847a-6cabb9f1b0e4",
+      "Name": "Pure Colour",
+      "OriginalName": "pure-colour",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "d121cc5d-c831-4600-a313-d90fbc5f2398",
+      "Name": "Elvie",
+      "OriginalName": "elvie",
+      "SubBrands": [
+        {
+          "BrandId": "07be901d-c901-4808-9121-2ef7ffeeea3b",
+          "Name": "Elvie",
+          "OriginalName": "elvie",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "7e4030a5-d005-48a9-99c3-1cc5dbd75f15",
+          "Name": "Elvie Firefly",
+          "OriginalName": "firefly",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "7e598cd8-bfa3-4761-a485-df513483d772",
+      "Name": "Essense&Co.",
+      "OriginalName": "essense-co",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "b27f6b72-c70f-44bc-adf2-dc4d714ac95d",
+      "Name": "Twinkle Star Collection",
+      "OriginalName": "twinkle-star-collection",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "4e2249ea-8452-49dd-a93a-6b229ab37016",
+      "Name": "Milk & Honey Gold",
+      "OriginalName": "milk-honey-gold",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "87a8bfc5-d8bc-4ac2-9527-e51f635a10be",
+      "Name": "Excite by Oriflame",
+      "OriginalName": "excite",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "63200461-0a1a-4e85-bef7-e19c3d45f567",
+      "Name": "Hand Care",
+      "OriginalName": "hand-care",
+      "SubBrands": [
+        {
+          "BrandId": "7d63199f-d9d9-4f9c-9a0f-fd98c38ae919",
+          "Name": "Hand Care",
+          "OriginalName": "hand-care",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "cc53697e-4acd-42ac-89d1-842c2cdf4b0c",
+          "Name": "Hand Care Advanced",
+          "OriginalName": "advanced",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "c524edbe-4ede-49f9-86af-0f66fb0eaf9d",
+          "Name": "Hand Care Brazil Nuts",
+          "OriginalName": "brazil-nuts",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "eca070e0-a9bb-47f0-84a0-df4a5ae0d147",
+          "Name": "Hand Care Olive",
+          "OriginalName": "olive",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "dd53ab85-2224-4908-afe6-e2338feddd7f",
+          "Name": "Hand Care Cherry",
+          "OriginalName": "cherry",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "f68601a6-f049-4ff8-87bd-73cdf7b73a21",
+      "Name": "Essentials",
+      "OriginalName": "essentials",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "b005bbe8-4cc5-42d9-8a75-6bd2417406c2",
+      "Name": "Floral Collection",
+      "OriginalName": "floral",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "ed79d516-f56a-4938-b5d5-ebada9a5ab5f",
+      "Name": "You Dazzle",
+      "OriginalName": "you-dazzle",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "9a1fe30f-1bc4-4c0e-ad32-7b91c80f9f0a",
+      "Name": "SkinPro",
+      "OriginalName": "skinpro",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "daee901b-2679-4ab3-960b-6f11f7d405d9",
+      "Name": "Pretty Swan",
+      "OriginalName": "pretty-swan",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "b10a77ed-1dcf-4141-bff6-f23d990cf071",
+      "Name": "First Rendez-Vous",
+      "OriginalName": "first-rendez-vous",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "6e1e8e27-508c-4784-acf8-f3465649e1e0",
+      "Name": "Feminelle",
+      "OriginalName": "feminelle",
+      "SubBrands": [
+        {
+          "BrandId": "b2d64024-59ff-4b3c-96f3-e3a143fdee25",
+          "Name": "Feminelle",
+          "OriginalName": "feminelle",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "fd78d7e9-8699-4d51-b771-d5605bf461c8",
+          "Name": "Feminelle Special Care+",
+          "OriginalName": "special-care-plus",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "dc332557-00d8-4d70-9e81-7252e1cb34b1",
+      "Name": "winter-gifts",
+      "OriginalName": "winter-gifts",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "351347c4-dd59-4684-80e6-fd33bca24c8d",
+      "Name": "Oasis",
+      "OriginalName": "oasis",
+      "SubBrands": [
+        {
+          "BrandId": "76abd19f-4a2b-4e58-bf0b-eb737f65feb7",
+          "Name": "Oasis Fresh Dawn",
+          "OriginalName": "fresh-dawn",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "654423a3-1496-4606-a7cc-748471390f61",
+          "Name": "Oasis Warm Sunset",
+          "OriginalName": "warm-sunset",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "72189dfc-11ab-488d-a301-7fc45a2c8443",
+      "Name": "Optimals",
+      "OriginalName": "optimals",
+      "SubBrands": [
+        {
+          "BrandId": "f2468cdf-2817-433f-9968-b47c804d7bb9",
+          "Name": "age-revive",
+          "OriginalName": "age-revive",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "bc5b3b6d-c171-4bef-8951-61829a1c8860",
+          "Name": "Optimals BioMaximum+",
+          "OriginalName": "biomaximum-plus",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "0c5f0414-30a0-4236-b0bd-ee865581a04c",
+          "Name": "Optimals Body",
+          "OriginalName": "body",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "98e8a30e-055f-4465-a9c6-86d40405814a",
+          "Name": "Optimals Cleansers",
+          "OriginalName": "cleansers",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "b1077eb0-dfb2-4551-85df-40077bc87cda",
+          "Name": "Optimals Even Out",
+          "OriginalName": "even-out",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "fa9921c8-e84c-422e-ad61-0afa89b152de",
+          "Name": "Optimals Intense Moisture",
+          "OriginalName": "intense-moisture",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "a5d3456a-fe7d-4a23-aa15-f1b778a22d82",
+          "Name": "hydra",
+          "OriginalName": "hydra",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "16db1b8f-8426-4335-86da-ec2806308baf",
+          "Name": "Optimals Matte Touch",
+          "OriginalName": "matte-touch",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "68de8e63-5413-4b71-98ac-6a59c27e39e4",
+          "Name": "Optimals Nutri Calm",
+          "OriginalName": "nutri-calm",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "421641dd-b9e7-4403-a383-a9a0d191bd25",
+          "Name": "Optimals Oxygen Boost",
+          "OriginalName": "oxygen-boost",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "42369c47-f7d7-4c82-8333-46abbcddc404",
+          "Name": "Optimals Seeing is Believing",
+          "OriginalName": "seeing-is-believing",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "711bff97-ab99-4ebb-bbde-972ccb0c3698",
+          "Name": "Optimals Skin Energy",
+          "OriginalName": "skin-energy",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "113242c8-a0ed-4635-ab76-9371ea7a461d",
+          "Name": "Optimals Skin Youth",
+          "OriginalName": "skin-youth",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "1891cbb1-5453-4964-b51c-24656c67deae",
+          "Name": "Optimals Smooth Out",
+          "OriginalName": "smooth-out",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "b8208c0c-35c7-4d15-a562-998b2497cbd8",
+          "Name": "Optimals Time Relax",
+          "OriginalName": "time-relax",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "e3c0e0b9-0687-4092-a1a5-819ca166b67d",
+          "Name": "Optimals Vital Definition",
+          "OriginalName": "vital-definition",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "5542be4c-b5ac-4df7-8c42-63041c3df0b7",
+          "Name": "Optimals White",
+          "OriginalName": "white-illuminating",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "3d014b66-054b-4c73-b30e-84a3a299b3ad",
+      "Name": "Roses",
+      "OriginalName": "roses",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "7906875f-8f92-43f6-8ab3-fe94b433826b",
+      "Name": "Flamboyant",
+      "OriginalName": "flamboyant",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "b06715ee-da89-4d2a-b3ad-854964a5211d",
+      "Name": "p.s. I Love You",
+      "OriginalName": "ps-i-love-you",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "69c594ae-372a-4b59-9ebe-7d2aa2a0d47e",
+      "Name": "Lovely Garden",
+      "OriginalName": "lovely-garden",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "fc7b1379-aad4-44fb-9af8-9132c3394d53",
+      "Name": "Free Attitude",
+      "OriginalName": "free-attitude",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "2ea470e5-234c-4957-8e62-81bea5dee1eb",
+      "Name": "Ascendant",
+      "OriginalName": "ascendant",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "58c82155-27bf-4ba8-9d93-933c279de08c",
+      "Name": "Wellness by Oriflame",
+      "OriginalName": "wellness-by-oriflame",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "daba4b39-62c3-42b1-9040-890d3c7089f3",
+      "Name": "True Perfection",
+      "OriginalName": "true-perfection",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "b7a40e0b-786c-4322-af6d-95100175d355",
+      "Name": "North for Men",
+      "OriginalName": "north-for-men",
+      "SubBrands": [
+        {
+          "BrandId": "e7af7ca6-2933-43cb-91d7-1a990afeb8d1",
+          "Name": "North for Men Original",
+          "OriginalName": "original",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "909fe002-7c6e-46cd-b8bc-85c1439d2d7d",
+          "Name": "North for Men Recharge",
+          "OriginalName": "recharge",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "43cc4b78-d390-4913-b3be-44cdda8c8105",
+          "Name": "North for Men Advanced",
+          "OriginalName": "advanced",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "4a680302-ff0a-4731-8049-e039daf5d999",
+          "Name": "North for Men Sensitive",
+          "OriginalName": "sensitive",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "715062db-d9c2-43db-8923-969e74c044cc",
+      "Name": "Rock Angel",
+      "OriginalName": "rock-angel",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "a3c033d6-99fb-4457-9a7a-9a1c9744ab71",
+      "Name": "Eikon",
+      "OriginalName": "eikon",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "ebe93809-5447-425e-a1c8-97bfc25f98f5",
+      "Name": "Pure Nature",
+      "OriginalName": "pure-nature",
+      "SubBrands": [
+        {
+          "BrandId": "e57f540b-8a9c-4bd1-8b66-1787289ef03c",
+          "Name": "Pure Nature Açai & Pomegranate",
+          "OriginalName": "acai-berry-pomegranate",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "bb3baa3f-ccdc-44db-a62f-f89013b81998",
+          "Name": "Pure Nature Aloe Vera & Arnica Extract",
+          "OriginalName": "aloe-vera-arnica",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "4ee5fdda-db48-4c93-ba53-a8881c2384f9",
+          "Name": "Pure Nature Blueberry & Lavender Extract",
+          "OriginalName": "blueberry-lavender",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "d34fe87b-1669-4638-9055-61b1f0846ae3",
+          "Name": "Pure Nature Pear & Nectarine",
+          "OriginalName": "pear-nectarine",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "2c8aa5f6-4334-4a9f-8db6-f8ad94e95381",
+          "Name": "Pure Nature Tea Tree & Rosemary",
+          "OriginalName": "tea-tree-rosemary",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "26310917-5db8-4103-b06f-d370d69f942a",
+          "Name": "Pure Nature White Tea Extract",
+          "OriginalName": "white-tea",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "42943493-ffcb-4034-a88c-1d7966dfe4ca",
+          "Name": "Pure Nature Jasmine Extract",
+          "OriginalName": "jasmine",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "baaba1be-0cc8-4266-b815-d9cec8e3aaf2",
+          "Name": "Pure Nature Burdock Extract",
+          "OriginalName": "burdock",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "2737548b-4342-4dbc-9f93-544808ce703d",
+          "Name": "Pure Nature Patchouli & Ylang Ylang",
+          "OriginalName": "patchouli-ylang-ylang",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "e9436804-b643-4c0a-a7ad-a410f23bff1a",
+          "Name": "Pure Nature Citrus & Eyebright",
+          "OriginalName": "citrus-eyebright",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "8cec7b26-d669-4954-8e30-b9c0e1e1d998",
+          "Name": "Pure Nature Chamomile",
+          "OriginalName": "chamomile",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "26ca8552-e154-43bf-916f-9c1f142e2502",
+          "Name": "Pure Nature Wild Rose",
+          "OriginalName": "wild-rose",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "ace3652c-95ec-4871-bc6a-97bb4bc53225",
+      "Name": "Women's Collection",
+      "OriginalName": "womens-collection",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "3b3c8977-5275-4a9f-9c66-a2df549d2ea5",
+      "Name": "Disney",
+      "OriginalName": "disney",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "62b5b612-dc7b-44d6-81a0-9bb3db7aeb81",
+      "Name": "Giordani Man",
+      "OriginalName": "giordani-man",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "bacf4d98-ea88-4469-97ed-a6424d2094aa",
+      "Name": "Voyager",
+      "OriginalName": "voyager",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "952625c3-3957-430d-a227-a86c6c8fb6a7",
+      "Name": "Tenderly",
+      "OriginalName": "tenderly",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "291292d6-39d8-4242-8ec3-a49a2805b5bc",
+      "Name": "Platinum",
+      "OriginalName": "platinum",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "69091efa-f45a-4f60-b98f-a15fba95c314",
+      "Name": "Love Nature",
+      "OriginalName": "love-nature",
+      "SubBrands": [
+        {
+          "BrandId": "9a778cec-0d47-4229-878c-5ae2c09382f7",
+          "Name": "Love Nature Hydrating Aloe Vera",
+          "OriginalName": "aloe-vera",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "8a4d77f9-12e7-4210-9ff8-5734b9ef00b6",
+          "Name": "Love Nature Cherry",
+          "OriginalName": "cherry",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "5a37576f-bfee-4cab-8606-615e3440b578",
+          "Name": "Love Nature Neem",
+          "OriginalName": "neem",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "8991231e-e04b-472c-a38e-b4dc07bd3b36",
+          "Name": "Love Nature Raspberry",
+          "OriginalName": "raspberry",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "e7e26f2b-6903-4f07-b237-3bbb406c3d2f",
+          "Name": "Love Nature Strawberry",
+          "OriginalName": "strawberry",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "df98f167-9702-4cc4-84bf-f4bb29b05332",
+          "Name": "Love Nature Purifying Tea Tree",
+          "OriginalName": "tea-tree",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "43909414-6549-4056-9a1e-41285fc94c35",
+          "Name": "Love Nature Classic Wild Rose",
+          "OriginalName": "wild-rose",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "54819ae1-252b-4f62-91ae-b20c6b4e2c6c",
+      "Name": "Activelle",
+      "OriginalName": "activelle",
+      "SubBrands": [
+        {
+          "BrandId": "3385ad62-e4f1-4705-9dbe-231d03a9e61f",
+          "Name": "Activelle Cotton Dry",
+          "OriginalName": "cotton-dry",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "2681ee5f-f1a9-4b16-b6df-0df87e5f9b31",
+          "Name": "Activelle Extreme Protection",
+          "OriginalName": "extreme-protection",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "17eff847-90c2-4656-a0a6-27950f6a1dab",
+          "Name": "Activelle Green Tea Fresh",
+          "OriginalName": "green-tea-fresh",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "fae9a2d7-6662-4cc2-a1da-1afe3362f0b6",
+          "Name": "Activelle Invisible",
+          "OriginalName": "invisible",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "32ec0a89-f113-409f-970b-241314dedcfd",
+          "Name": "Activelle Pure Care",
+          "OriginalName": "pure-care",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "c46a7e25-29ca-42bc-a619-65ef372806e9",
+          "Name": "Activelle Sensitive",
+          "OriginalName": "sensitive",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "725d3ec4-f002-411c-bed9-d92b00b5d52f",
+      "Name": "Divine",
+      "OriginalName": "divine",
+      "SubBrands": [
+        {
+          "BrandId": "230584bc-0f4c-4e02-ad4c-e8e591e2bbb4",
+          "Name": "Divine",
+          "OriginalName": "divine",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "d80b193f-dcb7-4039-be76-cacf2663c81e",
+          "Name": "Divine Sensual",
+          "OriginalName": "sensual",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "b088dab3-33f2-43b2-b84a-dfc12030e323",
+      "Name": "si-magnifique",
+      "OriginalName": "si-magnifique",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "f1f75d76-4d44-4479-b5b9-bae1350be5b3",
+      "Name": "Imagination",
+      "OriginalName": "imagination",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "162f8601-45b1-45fd-ae63-d23fcfbaebdf",
+      "Name": "Espionage",
+      "OriginalName": "espionage",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "cd1db4a1-133d-44ca-8b94-f758ad7a4548",
+      "Name": "Time Reversing",
+      "OriginalName": "time-reversing",
+      "SubBrands": [
+        {
+          "BrandId": "a86a31d7-925e-4845-9a8c-d2fea41d16af",
+          "Name": "Time Reversing",
+          "OriginalName": "time-reversing",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "72c4094a-dac5-426f-917d-f4c4e6d149f2",
+          "Name": "Time Reversing Intense",
+          "OriginalName": "intense",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "77e877b1-fbe9-48fd-a4f6-fc36e7528e42",
+      "Name": "",
+      "OriginalName": "novage-ecollagen",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "bca14321-3e00-4e65-95e1-dc53a562787e",
+      "Name": "Possess",
+      "OriginalName": "possess",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "2a9a4ae1-e76d-470f-b47e-e078b6b421ef",
+      "Name": "Miss O",
+      "OriginalName": "miss-o",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "fec8d6d3-c8ec-47d7-8c77-e76d6b24d2ff",
+      "Name": "Sparkle in Paris",
+      "OriginalName": "sparkle-in-paris",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "31d49678-f5cc-4f59-a6a6-f3150406d0f2",
+      "Name": "Harmony",
+      "OriginalName": "harmony",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "50eb266b-1b50-49d9-842b-f6681dd5a001",
+      "Name": "Vivacity",
+      "OriginalName": "vivacity",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "99e9d005-0878-4136-8383-f75f0ad96636",
+      "Name": "Athena",
+      "OriginalName": "athena",
+      "SubBrands": []
+    },
+    {
+      "BrandId": "04cbd4e4-63a7-4fde-bba3-f83bd095a122",
+      "Name": "Midsummer",
+      "OriginalName": "midsummer",
+      "SubBrands": [
+        {
+          "BrandId": "16769030-73f5-4a18-a573-6880478d3353",
+          "Name": "Midsummer Woman",
+          "OriginalName": "woman",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "232e3f78-5e28-4481-8897-d759bbb5ea31",
+          "Name": "Midsummer Man",
+          "OriginalName": "man",
+          "SubBrands": []
+        },
+        {
+          "BrandId": "1b118434-f76b-4015-8874-d5eb18b170e1",
+          "Name": "Couple",
+          "OriginalName": "couple",
+          "SubBrands": []
+        }
+      ]
+    },
+    {
+      "BrandId": "135fd079-6b69-4f85-9ad9-ff3c5ca69ec3",
+      "Name": "Architect",
+      "OriginalName": "architect",
+      "SubBrands": []
+    }
+  ]
+}
