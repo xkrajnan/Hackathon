@@ -7,10 +7,10 @@ Option 02: Send a link to your public repo here on github or any other public re
 
 
 ## Teams
-* aLook
+* **aLook**: https://github.com/jancervenka/product-stories
 * AVON ladies
-* CoolTeam
-* ProRocketeers
+* **CoolTeam**: https://github.com/vict0ry/hackathon_oriflame
+* **ProRocketeers**: https://gitlab.com/prorocketeers/pretty-box
 * semeai tech
-* Student dreamers
+* **Student dreamers**: https://github.com/student-dreamers
 
