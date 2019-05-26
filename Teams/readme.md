@@ -11,6 +11,6 @@ Option 02: Send a link to your public repo here on github or any other public re
 * **AVON ladies**: https://github.com/Svehla/oriflame-ai-hackathon
 * **CoolTeam**: https://github.com/vict0ry/hackathon_oriflame
 * **ProRocketeers**: https://gitlab.com/prorocketeers/pretty-box
-* semeai tech
+* **semeai tech**: https://gitlab.com/semeai/oriflame_hackathon_2019 (currently not public)
 * **Student dreamers**: https://github.com/student-dreamers
 
