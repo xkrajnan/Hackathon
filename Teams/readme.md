@@ -8,7 +8,7 @@ Option 02: Send a link to your public repo here on github or any other public re
 
 ## Teams
 * **aLook**: https://github.com/jancervenka/product-stories
-* AVON ladies
+* **AVON ladies**: https://github.com/Svehla/oriflame-ai-hackathon
 * **CoolTeam**: https://github.com/vict0ry/hackathon_oriflame
 * **ProRocketeers**: https://gitlab.com/prorocketeers/pretty-box
 * semeai tech
